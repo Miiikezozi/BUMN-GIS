@@ -1,0 +1,2091 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    },
+    "features": [{
+            "type": "Feature",
+            "id": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.44216670000009, 0.52686111100007338]
+            },
+            "properties": {
+                "OBJECTID": 1,
+                "No_": 1,
+                "Nama_Apotek": "Apotek Asia Sehat",
+                "Alamat": "Jl. Jend. Ahmad Yani No.68a",
+                "Kecamatan": "Pekanbaru Kota",
+                "Skala": "Sedang",
+                "BPJS": "Tidak Melayani",
+                "Rating": 7,
+                "Y": 0.5268611111,
+                "X": 101.4421667,
+                "Link_Foto": "https://drive.google.com/file/d/1DfbI3NFvkNBjIvLB7Z0RnsGtiDtqYbPl/view?usp=sharing"
+            }
+        }, {
+            "type": "Feature",
+            "id": 2,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.44236110000008, 0.52758333300005233
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2,
+                "No_": 2,
+                "Nama_Apotek": "Apotek Sehati Farma",
+                "Alamat": "Jl. Jend. Ahmad Yani No.100",
+                "Kecamatan": "Pekanbaru Kota",
+                "Skala": "Kecil",
+                "BPJS": "Tidak Melayani",
+                "Rating": 6,
+                "Y": 0.52758333329999996,
+                "X": 101.4423611,
+                "Link_Foto": "https://drive.google.com/uc?export=view&id=1EF5SIJLzgJOpRQinJofpn2GJX5r8Rwwn"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.44208330000004, 0.52525000000002819
+                ]
+            },
+            "properties": {
+                "OBJECTID": 3,
+                "No_": 3,
+                "Nama_Apotek": "Apotek Batra Farma",
+                "Alamat": "Jl. Jend. Ahmad Yani No.99",
+                "Kecamatan": "Pekanbaru Kota",
+                "Skala": "Kecil",
+                "BPJS": "Melayani",
+                "Rating": 7.5,
+                "Y": 0.52524999999999999,
+                "X": 101.44208329999999,
+                "Link_Foto": "https://drive.google.com/file/d/1FV8j1O3eV9uf36viqE7RZKwxABjPjm6E/view?usp=sharing"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.44241670000008, 0.52172222200005081]
+            },
+            "properties": {
+                "OBJECTID": 4,
+                "No_": 4,
+                "Nama_Apotek": "Apotek Kimia Farma",
+                "Alamat": "Jl. Jend. Ahmad Yani No.117",
+                "Kecamatan": "Pekanbaru Kota",
+                "Skala": "Besar",
+                "BPJS": "Melayani",
+                "Rating": 8,
+                "Y": 0.52172222219999997,
+                "X": 101.4424167,
+                "Link_Foto": "https://drive.google.com/file/d/1hgukmqyXn3Q2bnIOV4qEu4tclscKLSvT/view?usp=sharing"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.44222220000006, 0.52522222200002489]
+            },
+            "properties": {
+                "OBJECTID": 5,
+                "No_": 5,
+                "Nama_Apotek": "Apotek Asean",
+                "Alamat": "Jl. Jend. Ahmad Yani No.147",
+                "Kecamatan": "Pekanbaru Kota",
+                "Skala": "Besar",
+                "BPJS": "Tidak Melayani",
+                "Rating": 8.5,
+                "Y": 0.52522222220000003,
+                "X": 101.4422222,
+                "Link_Foto": "https://drive.google.com/file/d/1Vvw0pXybV3u2JbJVH0ZGWzAPzY1FUNgN/view?usp=sharing"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.46452780000004,  0.49938888900004486]
+            },
+            "properties": {
+                "OBJECTID": 6,
+                "No_": 6,
+                "Nama_Apotek": "Apotek Keluarga 11",
+                "Alamat": "Jl. Harapan Raya rt/1rw, Tengkerang Sel",
+                "Kecamatan": "Bukit Raya",
+                "Skala": "Besar",
+                "BPJS": "Tidak Melayani",
+                "Rating": 7.5,
+                "Y": 0.49938888889999999,
+                "X": 101.4645278,
+                "Link_Foto": "https://drive.google.com/file/d/1eVYDcfbL-WO2_xr003JsiNYl5OYGW9UO/view?usp=sharing"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.46555560000007, 0.50002777800006015]
+            },
+            "properties": {
+                "OBJECTID": 7,
+                "No_": 7,
+                "Nama_Apotek": "Apotek Mandiri Smart",
+                "Alamat": "Jl.Imam Munandar No.61",
+                "Kecamatan": "Bukit Raya",
+                "Skala": "Besar",
+                "BPJS": "Tidak Melayani",
+                "Rating": 8,
+                "Y": 0.50002777779999996,
+                "X": 101.4655556,
+                "Link_Foto": "https://drive.google.com/file/d/1xAV5wuAYkO0oYpd56rftNYJJ9A3nQjZQ/view?usp=sharing"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.45652780000006,0.49972222200005945]
+            },
+            "properties": {
+                "OBJECTID": 8,
+                "No_": 8,
+                "Nama_Apotek": "Apotek Sumber Sehat",
+                "Alamat": "Jl.Imam Munandar No.59",
+                "Kecamatan": "Bukit Raya",
+                "Skala": "Kecil",
+                "BPJS": "Melayani",
+                "Rating": 8.5,
+                "Y": 0.49972222220000001,
+                "X": 101.4565278,
+                "Link_Foto": "https://drive.google.com/file/d/1IMF_06xeSsQpB7QhGxh4E7bSBrW-Z00u/view?usp=sharing"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.42825000000005,0.56925000000006776]
+            },
+            "properties": {
+                "OBJECTID": 9,
+                "No_": 9,
+                "Nama_Apotek": "Apotek Mekar Farma",
+                "Alamat": "Jl.Umban Sari",
+                "Kecamatan": "Rumbai",
+                "Skala": "Kecil",
+                "BPJS": "Tidak Melayani",
+                "Rating": 8,
+                "Y": 0.56925000000000003,
+                "X": 101.42825000000001,
+                "Link_Foto": "https://drive.google.com/file/d/1LVOdaZm0JT-m76zxzWZw0MnyuLek1orw/view?usp=sharing"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 10,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.42622220000004,0.56913888900004395]
+            },
+            "properties": {
+                "OBJECTID": 10,
+                "No_": 10,
+                "Nama_Apotek": "Apotek Andalan Makmur",
+                "Alamat": "Jl.Umban sari",
+                "Kecamatan": "Rumbai",
+                "Skala": "Kecil",
+                "BPJS": "Tidak Melayani",
+                "Rating": 7.5,
+                "Y": 0.56913888889999997,
+                "X": 101.4262222,
+                "Link_Foto": "https://drive.google.com/file/d/1RIT-YfRDs9Fte4uUaMeL-klIWsjIz8Su/view?usp=sharing"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 11,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.44555560000003,0.50011111100002381]
+            },
+            "properties": {
+                "OBJECTID": 11,
+                "No_": 11,
+                "Nama_Apotek": "Apotek Mitra Sehat",
+                "Alamat": "Jl. Taskurun No.65, Wonorejo",
+                "Kecamatan": "Marpoyan Damai",
+                "Skala": "Sedang",
+                "BPJS": "Tidak Melayani",
+                "Rating": 7.7,
+                "Y": 0.50011111109999995,
+                "X": 101.44555560000001,
+                "Link_Foto": "https://goalkes-images.s3-ap-southeast-1.amazonaws.com/pharmacies/NMFWaPAb6ONpfSOTv6mPhWMwViOdXB0gYtySivbs.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 12,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.44305560000004,0.50916666700004498]
+            },
+            "properties": {
+                "OBJECTID": 12,
+                "No_": 12,
+                "Nama_Apotek": "Apotik Varia",
+                "Alamat": "Jl. Tuanku Tambusai No.11, Wonorejo",
+                "Kecamatan": "Marpoyan Damai",
+                "Skala": "Sedang",
+                "BPJS": "Tidak Melayani",
+                "Rating": 8,
+                "Y": 0.50916666700000002,
+                "X": 101.44305559999999,
+                "Link_Foto": "https://lh3.googleusercontent.com/p/AF1QipOA5UAxmbZJ8MCk4KnDrEUsysnvunjQ4QcfMNn5=s1600-w400"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 13,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.38542695000007,0.44934054500004095]
+            },
+            "properties": {
+                "OBJECTID": 13,
+                "No_": 13,
+                "Nama_Apotek": "Apotek Gefyzi",
+                "Alamat": "Jl. Suka Karya, Tuah Karya",
+                "Kecamatan": "Tampan",
+                "Skala": "Sedang",
+                "BPJS": "Tidak Melayani",
+                "Rating": 7,
+                "Y": 0.44934054470000001,
+                "X": 101.38542695040501,
+                "Link_Foto": "https://goo.gl/maps/s14FsXTMNxMhV1GW8"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 14,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.43829000000005,0.51961000000005697]
+            },
+            "properties": {
+                "OBJECTID": 14,
+                "No_": 14,
+                "Nama_Apotek": "Apotek Sukajadi",
+                "Alamat": "Jl. KH. Ahmad Dahlan No.107, Sukajadi",
+                "Kecamatan": "Sukajadi",
+                "Skala": "Kecil",
+                "BPJS": "Tidak Melayani",
+                "Rating": 7.5,
+                "Y": 0.51961000000000002,
+                "X": 101.43828999999999,
+                "Link_Foto": "https://goo.gl/maps/wjTUhwC2zJ8r4P297"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 15,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.43616670000006,0.50586111100005837]
+            },
+            "properties": {
+                "OBJECTID": 15,
+                "No_": 15,
+                "Nama_Apotek": "Apotik Adinda",
+                "Alamat": "Jl. Tuanku Tambusai No.11, Kp. Melayu",
+                "Kecamatan": "Sukajadi",
+                "Skala": "Kecil",
+                "BPJS": "Tidak Melayani",
+                "Rating": 7.2,
+                "Y": 0.50586111109999998,
+                "X": 101.4361667,
+                "Link_Foto": "https://goalkes-images.s3-ap-southeast-1.amazonaws.com/pharmacies/ytGK2pPURmFiFdN1DJ0RAjTuErvMDuaQYRZuN1h6.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 16,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.41133330000008,0.51730555600005346]
+            },
+            "properties": {
+                "OBJECTID": 16,
+                "No_": 16,
+                "Nama_Apotek": "Apotek Dharma Bakti",
+                "Alamat": "JL Darma Bakti, Labuh Baru Bar",
+                "Kecamatan": "Payung Sekaki",
+                "Skala": "Kecil",
+                "BPJS": "Tidak Melayani",
+                "Rating": 8,
+                "Y": 0.51730555560000002,
+                "X": 101.4113333,
+                "Link_Foto": "https://goalkes-images.s3-ap-southeast-1.amazonaws.com/pharmacies/OgXbaBA7G2gHeZqdbswlE1sCfUdGXfAsVbTxblG4.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 17,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.43833330000007,0.52838888900004122]
+            },
+            "properties": {
+                "OBJECTID": 17,
+                "No_": 17,
+                "Nama_Apotek": "Apotek Medika",
+                "Alamat": "Jl. Cempaka No.55, Sukajadi",
+                "Kecamatan": "Sukajadi",
+                "Skala": "Sedang",
+                "BPJS": "Tidak Melayani",
+                "Rating": 7.8,
+                "Y": 0.52838888890000002,
+                "X": 101.4383333,
+                "Link_Foto": "https://goalkes-images.s3-ap-southeast-1.amazonaws.com/pharmacies/qRv6TUbBMXBLlR0rDKbUwohM2189i1h6Ft62phqz.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 18,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.45611110000004,0.53305555600002208]
+            },
+            "properties": {
+                "OBJECTID": 18,
+                "No_": 18,
+                "Nama_Apotek": "Apotek Sumber Farma",
+                "Alamat": "Jl. Harapan Raya No.55",
+                "Kecamatan": "Bukit Raya",
+                "Skala": "Sedang",
+                "BPJS": "Tidak Melayani",
+                "Rating": 8,
+                "Y": 0.53305555559999995,
+                "X": 101.4561111,
+                "Link_Foto": "https://goalkes-images.s3-ap-southeast-1.amazonaws.com/pharmacies/pgkTteNltcirVBtEH3agtF0WmoM7aSdsY3U3SOxu.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 19,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.45422220000006,0.49900000000002365]
+            },
+            "properties": {
+                "OBJECTID": 19,
+                "No_": 19,
+                "Nama_Apotek": "Apotek Kimia Farma 229",
+                "Alamat": "Jl. Jend. Sudirman No.724",
+                "Kecamatan": "Marpoyan Damai",
+                "Skala": "Besar",
+                "BPJS": "Melayani",
+                "Rating": 8.5,
+                "Y": 0.499,
+                "X": 101.4542222,
+                "Link_Foto": "https://goalkes-images.s3-ap-southeast-1.amazonaws.com/pharmacies/OdlyXeLIjxBy68zcPB4v4wddZwg6C78LgW0VTxCY.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 20,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.44066000000004,0.52490500000004658
+                ]
+            },
+            "properties": {
+                "OBJECTID": 20,
+                "No_": 20,
+                "Nama_Apotek": "Apotik Cinta Sehat",
+                "Alamat": "Jl. Jend. Ahmad Yani No.10",
+                "Kecamatan": "Pekanbaru Kota",
+                "Skala": "Sedang",
+                "BPJS": "Tidak Melayani",
+                "Rating": 7.9,
+                "Y": 0.52490499999999995,
+                "X": 101.44065999999999,
+                "Link_Foto": "https://s-yoolk-images.s3.amazonaws.com/id/gallery_images/medium/1434481830/525164?1434481830"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 21,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.44207100000006,0.52468400000003612]
+            },
+            "properties": {
+                "OBJECTID": 21,
+                "No_": 21,
+                "Nama_Apotek": "Apotek Jakarta",
+                "Alamat": "Jl. Jend. Ahmad Yani No.108",
+                "Kecamatan": "Pekanbaru Kota",
+                "Skala": "Besar",
+                "BPJS": "Tidak Melayani",
+                "Rating": 8.1,
+                "Y": 0.52468400000000004,
+                "X": 101.442071,
+                "Link_Foto": "https://lh3.googleusercontent.com/-gnd38elPjYU/WKktrh5mARI/AAAAAAAAAYs/Dlce5Z2y190PmEUfn7CzDU9HuU3KxM1gwCLIB/w1080-h608-p-k-no-v0/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.45575000000008, 0.45034600000002456]
+            },
+            "properties": {
+                "OBJECTID": 22,
+                "No_": 22,
+                "Nama_Apotek": "Apotek Naura Farma",
+                "Alamat": "Jl. Air Dingin No.30, Simpang Tiga",
+                "Kecamatan": "Bukit Raya",
+                "Skala": "Kecil",
+                "BPJS": "Tidak Melayani",
+                "Rating": 8.2,
+                "Y": 0.45034600000000002,
+                "X": 101.45574999999999,
+                "Link_Foto": "https://lh3.googleusercontent.com/p/AF1QipPKfQQsJdIIvf3R59vBhkZaVxKExZE5psAAtKve=s1600-w400"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.45470600000004,0.46451700000005758]
+            },
+            "properties": {
+                "OBJECTID": 23,
+                "No_": 23,
+                "Nama_Apotek": "Apotek Mandiri Utama",
+                "Alamat": "Jl. Tengku Bey, Simpang Tiga",
+                "Kecamatan": "Bukit Raya",
+                "Skala": "Sedang",
+                "BPJS": "Tidak Melayani",
+                "Rating": 8.8,
+                "Y": 0.46451700000000001,
+                "X": 101.454706,
+                "Link_Foto": "https://goalkes-images.s3-ap-southeast-1.amazonaws.com/pharmacies/CloKQutyDGZRoi2opARxQXqAKVes1gQxvydGS8kc.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 24,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.45132900000004,0.44732300000003988]
+            },
+            "properties": {
+                "OBJECTID": 24,
+                "No_": 24,
+                "Nama_Apotek": "Apotek Asean 5",
+                "Alamat": "Jl. Kaharuddin Nst No.5, Simpang Tiga",
+                "Kecamatan": "Bukit Raya",
+                "Skala": "Sedang",
+                "BPJS": "Tidak Melayani",
+                "Rating": 8.5,
+                "Y": 0.44732300000000003,
+                "X": 101.451329,
+                "Link_Foto": "https://www.okeline.com/foto_iklanbaris/157165apotek_asean.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.45291100000009,0.45552550000002157]
+            },
+            "properties": {
+                "OBJECTID": 25,
+                "No_": 26,
+                "Nama_Apotek": "Apotik Kimia Farma",
+                "Alamat": "Jl. Kaharuddin Nst No.185, Simpang Tiga",
+                "Kecamatan": "Bukit Raya",
+                "Skala": "Besar",
+                "BPJS": "Melayani",
+                "Rating": 8,
+                "Y": 0.45552550000000003,
+                "X": 101.452911,
+                "Link_Foto": "https://cms.sehatq.com/cdn-cgi/image/f=auto/public/img/hospital_thumb/laboratorium-klinik-kimia-farma-pekanbaru-HCFL00000256.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.46539760000007,0.45783080000006748]
+            },
+            "properties": {
+                "OBJECTID": 26,
+                "No_": 27,
+                "Nama_Apotek": "Apotek Alfa",
+                "Alamat": "Jl. Tengku Bey No.3, Simpang Tiga",
+                "Kecamatan": "Bukit Raya",
+                "Skala": "Sedang",
+                "BPJS": "Tidak Melayani",
+                "Rating": 7.4,
+                "Y": 0.45783079999999998,
+                "X": 101.4653976,
+                "Link_Foto": "https://goalkes-images.s3-ap-southeast-1.amazonaws.com/pharmacies/6jb4f9sgo0Z1OU1RHEWw47UcKHaxmzMeuNR5z1qw.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 27,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.45567150000005,0.49948913000002904]
+            },
+            "properties": {
+                "OBJECTID": 27,
+                "No_": 28,
+                "Nama_Apotek": "Apotek Suryani",
+                "Alamat": "Jl. Harapan Raya No.55, Tengkerang Sel",
+                "Kecamatan": "Bukit Raya",
+                "Skala": "Kecil",
+                "BPJS": "Tidak Melayani",
+                "Rating": 8,
+                "Y": 0.49948913,
+                "X": 101.45567149999999,
+                "Link_Foto": "https://drive.google.com/file/d/1HE6zN3pqib5qvEG2ZJgPDG97rxh1mua-/view?usp=sharing"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 28,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.46207362000007,0.52516958000006753]
+            },
+            "properties": {
+                "OBJECTID": 28,
+                "No_": 29,
+                "Nama_Apotek": "Apotek Indonesia Sehat 2",
+                "Alamat": "Jl. Hangtuah Ujung, Sekip",
+                "Kecamatan": "Lima Puluh",
+                "Skala": "Sedang",
+                "BPJS": "Tidak Melayani",
+                "Rating": 8.5,
+                "Y": 0.52516958000000002,
+                "X": 101.46207362,
+                "Link_Foto": "https://lh3.googleusercontent.com/p/AF1QipNYOgTbjxzCUVlzu90YLDhYwnpVPxFmLHRyBcXG=s1600-w400"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 29,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.38170070000007,0.46406768200006354]
+            },
+            "properties": {
+                "OBJECTID": 29,
+                "No_": 30,
+                "Nama_Apotek": "Apotek Rahman",
+                "Alamat": "Jl. HR. Soebrantas KM 12,5",
+                "Kecamatan": "Tampan",
+                "Skala": "Kecil",
+                "BPJS": "Tidak Melayani",
+                "Rating": 7.8,
+                "Y": 0.46406768199999998,
+                "X": 101.3817007,
+                "Link_Foto": "https://goalkes-images.s3-ap-southeast-1.amazonaws.com/pharmacies/uxxALkUMFDQnirSlipwmVXrXg93XBsTT3VR7RuQt.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.44825280000003,0.53591380000005984]
+            },
+            "properties": {
+                "OBJECTID": 30,
+                "No_": 31,
+                "Nama_Apotek": "Apotek Setia Budi",
+                "Alamat": "JL. Dr. Setia Budi, No. 38, Rintis",
+                "Kecamatan": "Lima Puluh",
+                "Skala": "Kecil",
+                "BPJS": "Tidak Melayani",
+                "Rating": 7.9,
+                "Y": 0.5359138,
+                "X": 101.44825280000001,
+                "Link_Foto": "https://goalkes-images.s3-ap-southeast-1.amazonaws.com/pharmacies/2mPq6fId0cmTL8cJVdqw0poMEGp2LgFm9AHb5IQr.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.45389080000007,0.53387138000005052]
+            },
+            "properties": {
+                "OBJECTID": 31,
+                "No_": 32,
+                "Nama_Apotek": "Apotek Permai",
+                "Alamat": "Jl. St. Syarif, Rintis",
+                "Kecamatan": "Lima Puluh",
+                "Skala": "Kecil",
+                "BPJS": "Tidak Melayani",
+                "Rating": 7.9,
+                "Y": 0.53387138000000001,
+                "X": 101.4538908,
+                "Link_Foto": "https://goalkes-images.s3-ap-southeast-1.amazonaws.com/pharmacies/TIr75tZ1c4dVxnr2gHZLPYyQZypqjurvknvQSiIz.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 32,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.44779137000006,0.52972488000006024]
+            },
+            "properties": {
+                "OBJECTID": 32,
+                "No_": 33,
+                "Nama_Apotek": "Apotek Century Healthcare",
+                "Alamat": "Jl. Jend. Sudirman, Rintis",
+                "Kecamatan": "Lima Puluh",
+                "Skala": "Sedang",
+                "BPJS": "Tidak Melayani",
+                "Rating": 8.2,
+                "Y": 0.52972487999999995,
+                "X": 101.44779137,
+                "Link_Foto": "https://lippomallkemang.com/wp-content/uploads/2020/08/CenturyHeatlhcare-scaled.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 33,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.45031292000004,0.5357262130000322]
+            },
+            "properties": {
+                "OBJECTID": 33,
+                "No_": 34,
+                "Nama_Apotek": "Apotek Gajah Mada",
+                "Alamat": "Jl. Dr. Setia Budhi No.90, Rintis",
+                "Kecamatan": "Lima Puluh",
+                "Skala": "Kecil",
+                "BPJS": "Tidak Melayani",
+                "Rating": 8,
+                "Y": 0.53572621300000001,
+                "X": 101.45031292,
+                "Link_Foto": "https://fastly.4sqi.net/img/general/600x600/BBVBGOANU1A2WSNIBP3HOOD5NTIMOFZMHSFXQHU4YNESQHT3.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 34,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.383719,0.46410965]
+            },
+            "properties": {
+                "OBJECTID": 34,
+                "No_": 35,
+                "Nama_Apotek": "Apotek Zharifa",
+                "Alamat": "Jl. HR.Soebrantas Panam No.74, Tuah Karya",
+                "Kecamatan": "Tampan",
+                "Skala": "Kecil",
+                "BPJS": "Tidak Melayani",
+                "Rating": 8,
+                "Y": 0.46410965,
+                "X": 101.383719,
+                "Link_Foto": "http://s-yoolk-images.s3.amazonaws.com/id/gallery_images/medium/1435663173/881411?1435663173"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 35,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.44731400000006,0.52565750000002254]
+            },
+            "properties": {
+                "OBJECTID": 35,
+                "No_": 36,
+                "Nama_Apotek": "Apotek Bunga Negara",
+                "Alamat": "Jl. Jend. Sudirman, Sukaramai",
+                "Kecamatan": "Pekanbaru Kota",
+                "Skala": "Sedang",
+                "BPJS": "Melayani",
+                "Rating": 8,
+                "Y": 0.5256575,
+                "X": 101.44731400000001,
+                "Link_Foto": "https://drive.google.com/file/d/10P9y35twtxMLT_1JL9OKkvasSw4o8vws/view?usp=sharing"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 36,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.44233980000007,0.52284610000003795]
+            },
+            "properties": {
+                "OBJECTID": 36,
+                "No_": 37,
+                "Nama_Apotek": "Apotek Riau",
+                "Alamat": "Jl. Jend. Ahmad Yani No.31, Tanah Datar",
+                "Kecamatan": "Pekanbaru Kota",
+                "Skala": "Sedang",
+                "BPJS": "Tidak Melayani",
+                "Rating": 8.1,
+                "Y": 0.52284609999999998,
+                "X": 101.4423398,
+                "Link_Foto": "https://drive.google.com/file/d/1uvkrIA-GO7nvKJxl9waE-p_aHUjQnd35/view?usp=sharing"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 37,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.38562432620697,0.447043155391683]
+            },
+            "properties": {
+                "OBJECTID": 37,
+                "No_": 38,
+                "Nama_Apotek": "Apotek Shafana",
+                "Alamat": "Jl. Suka Karya Sialang Munggu No.5, Tuah Madani",
+                "Kecamatan": "Tampan",
+                "Skala": "Kecil",
+                "BPJS": "Tidak Melayani",
+                "Rating": 7.2,
+                "Y": 0.4470431,
+                "X": 101.3856243,
+                "Link_Foto": "https://apollo-singapore.akamaized.net/v1/files/rk3epbxtwko61-ID/image"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 38,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.44387060000008,0.51971768000004204]
+            },
+            "properties": {
+                "OBJECTID": 38,
+                "No_": 39,
+                "Nama_Apotek": "Apotek Keluarga 7",
+                "Alamat": "Jl. Jend. Ahmad Yani, Kota Baru",
+                "Kecamatan": "Pekanbaru Kota",
+                "Skala": "Besar",
+                "BPJS": "Melayani",
+                "Rating": 8.5,
+                "Y": 0.51971767999999996,
+                "X": 101.4438706,
+                "Link_Foto": "https://apotekkeluarga.com/wp-content/uploads/2018/12/ak7.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 39,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.44241990000006,0.52937642100005178]
+            },
+            "properties": {
+                "OBJECTID": 39,
+                "No_": 40,
+                "Nama_Apotek": "Apotek Kartika",
+                "Alamat": "Jl. Jend. Ahmad Yani No.46, Kota Baru",
+                "Kecamatan": "Pekanbaru Kota",
+                "Skala": "Kecil",
+                "BPJS": "Melayani",
+                "Rating": 7.9,
+                "Y": 0.52937642100000004,
+                "X": 101.4424199,
+                "Link_Foto": "https://goalkes-images.s3-ap-southeast-1.amazonaws.com/pharmacies/Y2kDpfgf0gey3VjRqXE2bqd03dmjXxaL7KwjRC1H.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 40,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.44454850000005,0.52828747500007012]
+            },
+            "properties": {
+                "OBJECTID": 40,
+                "No_": 41,
+                "Nama_Apotek": "Sumber Sehat Apotik",
+                "Alamat": "JL Imam Bonjol, No. 1",
+                "Kecamatan": "Pekanbaru Kota",
+                "Skala": "Kecil",
+                "BPJS": "Tidak Melayani",
+                "Rating": 7.5,
+                "Y": 0.52828747499999995,
+                "X": 101.4445485,
+                "Link_Foto": "https://1.bp.blogspot.com/-E34w-UJrp1Q/XbHHrdWMODI/AAAAAAAAkq4/ugKT-Yxmk4wJ8S1XYJ6Nv5C6bwWSRoKRwCLcBGAsYHQ/s1600/Apotek%2BSumber%2BSehat%2BPekanbaru.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 41,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.44562570000005,0.53212514100005137]
+            },
+            "properties": {
+                "OBJECTID": 41,
+                "No_": 42,
+                "Nama_Apotek": "Apotik Sumatra",
+                "Alamat": "Jl. Prof. Moh. Yamin No.51, Sukaramai",
+                "Kecamatan": "Pekanbaru Kota",
+                "Skala": "Kecil",
+                "BPJS": "Tidak Melayani",
+                "Rating": 8,
+                "Y": 0.53212514099999997,
+                "X": 101.44562569999999,
+                "Link_Foto": "https://goalkes-images.s3-ap-southeast-1.amazonaws.com/pharmacies/o4CQqXupSMXaTk9seJNYxQncp8gmhUNcUdLgJMNM.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 42,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.38225000000006,0.46421000000003687]
+            },
+            "properties": {
+                "OBJECTID": 42,
+                "No_": 43,
+                "Nama_Apotek": "Apotek Metro Medika",
+                "Alamat": "Jl. HR.Soebrantas KM.20 No.288, Tuah Karya",
+                "Kecamatan": "Tampan",
+                "Skala": "Kecil",
+                "BPJS": "Tidak Melayani",
+                "Rating": 7,
+                "Y": 0.46421000000000001,
+                "X": 101.38225,
+                "Link_Foto": "https://lh3.googleusercontent.com/p/AF1QipMD3WZHKQTWcHpaqiMY_j-oAb4WLx2LbH6D0eCP=s1600-w1000"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.44430780000005,0.5277729170000498 ]
+            },
+            "properties": {
+                "OBJECTID": 43,
+                "No_": 44,
+                "Nama_Apotek": "Apotek Sanur",
+                "Alamat": "Jl. KH Agus Salim No.166, Kota Baru",
+                "Kecamatan": "Pekanbaru Kota",
+                "Skala": "Kecil",
+                "BPJS": "Tidak Melayani",
+                "Rating": 7.2000000000000002,
+                "Y": 0.52777291699999995,
+                "X": 101.4443078,
+                "Link_Foto": "https://drive.google.com/file/d/1H3nNlvcDIhnTtZO8IRBkEjSHeKesuUlz/view?usp=sharing"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 44,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.44501005400008,0.50890372100002423]
+            },
+            "properties": {
+                "OBJECTID": 44,
+                "No_": 45,
+                "Nama_Apotek": "Apotek Varia",
+                "Alamat": "Jl. Tuanku Tambusai No.11, Wonorejo",
+                "Kecamatan": "Marpoyan Damai",
+                "Skala": "Sedang",
+                "BPJS": "Tidak Melayani",
+                "Rating": 7.4,
+                "Y": 0.50890372103918302,
+                "X": 101.445010053703,
+                "Link_Foto": "https://lh3.googleusercontent.com/p/AF1QipOA5UAxmbZJ8MCk4KnDrEUsysnvunjQ4QcfMNn5=s1600-w400 "
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 45,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.44002899500003,0.50738126300007025]
+            },
+            "properties": {
+                "OBJECTID": 45,
+                "No_": 46,
+                "Nama_Apotek": "Apotek New Ananda",
+                "Alamat": "Jl. Tuanku Tambusai No.283, Wonorejo",
+                "Kecamatan": "Marpoyan Damai",
+                "Skala": "Kecil",
+                "BPJS": "Tidak Melayani",
+                "Rating": 7,
+                "Y": 0.50738126334086298,
+                "X": 101.440028994727,
+                "Link_Foto": "https://cdn-2.tstatic.net/sumsel/foto/bank/images/apotek-ananda.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 46,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.43896251500007,0.50697606800002859]
+            },
+            "properties": {
+                "OBJECTID": 46,
+                "No_": 47,
+                "Nama_Apotek": "Apotek Menara",
+                "Alamat": "Jl. Tuanku Tambusai No.287, Wonorejo",
+                "Kecamatan": "Marpoyan Damai",
+                "Skala": "Kecil",
+                "BPJS": "Tidak Melayani",
+                "Rating": 7.2,
+                "Y": 0.50697606785752403,
+                "X": 101.438962514544,
+                "Link_Foto": "https://lh3.googleusercontent.com/p/AF1QipOg0t4qf1uK2rYHK_Xx8nTS-jRzFmYw7vIBauj6=s1600-w400 "
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 47,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.42848241000007,0.50334945500003414]
+            },
+            "properties": {
+                "OBJECTID": 47,
+                "No_": 48,
+                "Nama_Apotek": "Apotek Kimia Farma",
+                "Alamat": "Jl. Nangka No.59, Tengkerang Bar.",
+                "Kecamatan": "Marpoyan Damai",
+                "Skala": "Besar",
+                "BPJS": "Melayani",
+                "Rating": 8.4,
+                "Y": 0.50334945491301097,
+                "X": 101.428482409856,
+                "Link_Foto": "https://cms.sehatq.com/cdn-cgi/image/f=auto/public/img/hospital_thumb/klinik-kimia-farma-nangka-HCFC00002740.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 48,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.42022238200008,0.4903790280000635]
+            },
+            "properties": {
+                "OBJECTID": 48,
+                "No_": 49,
+                "Nama_Apotek": "Apotek Metta Pharma",
+                "Alamat": "Tengkerang Bar.",
+                "Kecamatan": "Marpoyan Damai",
+                "Skala": "Kecil",
+                "BPJS": "Tidak Melayani",
+                "Rating": 7.1,
+                "Y": 0.49037902754374801,
+                "X": 101.420222381603,
+                "Link_Foto": "https://lh5.googleusercontent.com/p/AF1QipMGzcLCw-SLzggCnLic1UM7KQ_hHY_2gssks2Jf=w408-h883-k-no"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 49,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.37734387049589,0.45605732367607166]
+            },
+            "properties": {
+                "OBJECTID": 49,
+                "No_": 50,
+                "Nama_Apotek": "Apotik Intijaya Farma",
+                "Alamat": "Tuah Karya",
+                "Kecamatan": "Tampan",
+                "Skala": "Kecil",
+                "BPJS": "Tidak Melayani",
+                "Rating": 7.5,
+                "Y": 0.4560573,
+                "X": 101.37734387,
+                "Link_Foto": "https://goo.gl/maps/uUdTA42TrPwgFxoS6"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 50,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.39026860300004,0.45049093600005108]
+            },
+            "properties": {
+                "OBJECTID": 50,
+                "No_": 51,
+                "Nama_Apotek": "Apotek Angkasa Jaya",
+                "Alamat": "Jl. Cipta Karya No.81, Sidomulyo Bar",
+                "Kecamatan": "Tampan",
+                "Skala": "Sedang",
+                "BPJS": "Tidak Melayani",
+                "Rating": 7.9,
+                "Y": 0.45049093647843702,
+                "X": 101.390268603462,
+                "Link_Foto": "https://lh5.googleusercontent.com/p/AF1QipPH8TUgWqwd_NLHgIPuYIkPGuERp6k0IjEBLV4e=w408-h306-k-no"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 51,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 101.42414021400003,0.48062639300002274]
+            },
+            "properties": {
+                "OBJECTID": 51,
+                "No_": 52,
+                "Nama_Apotek": "Apotek Najwa",
+                "Alamat": "Jl. Tanjung Da, Sidomulyo Tim.",
+                "Kecamatan": "Marpoyan Damai",
+                "Skala": "Kecil",
+                "BPJS": "Tidak Melayani",
+                "Rating": 6.8,
+                "Y": 0.48062639334239299,
+                "X": 101.424140214313,
+                "Link_Foto": "https://lh3.googleusercontent.com/9zcnQDmQlIavnDQctlFG7Jq85wHL5AXUUw34ExFtN2vneh-vsK4gxbXWlGmo2Oh0wqzTmvSlAUGc8Lrw=w768-h768-n-o-v1"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 52,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.42214024900005,0.46418172500005994]
+            },
+            "properties": {
+                "OBJECTID": 52,
+                "No_": 53,
+                "Nama_Apotek": "Apotek Berkah Jaya",
+                "Alamat": "Jl. Adi Sucipto No.238, RT.1/RW.15, Sidomulyo Tim.",
+                "Kecamatan": "Marpoyan Damai",
+                "Skala": "Kecil",
+                "BPJS": "Tidak Melayani",
+                "Rating": 7.3,
+                "Y": 0.46418172469283397,
+                "X": 101.422140249347,
+                "Link_Foto": "https://lh5.googleusercontent.com/p/AF1QipO7AutrPndRQ3ltAWuXD3TYic1EPGsAaVtelbkr=w408-h725-k-no"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 53,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.41003869700006,0.46393358500006343]
+            },
+            "properties": {
+                "OBJECTID": 53,
+                "No_": 54,
+                "Nama_Apotek": "Apotek Keluarga 2",
+                "Alamat": "Jl. HR.Soebrantas No.52 A, Sidomulyo Bar.",
+                "Kecamatan": "Tampan",
+                "Skala": "Sedang",
+                "BPJS": "Tidak Melayani",
+                "Rating": 7.9,
+                "Y": 0.46393358450215,
+                "X": 101.410038696979,
+                "Link_Foto": "https://goalkes-images.s3-ap-southeast-1.amazonaws.com/pharmacies/fC04TQ4CwDzYEv8VAQpTdAU8ayyFgb38B6C7xeBD.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 54,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.41865965500006,0.46164167200004158]
+            },
+            "properties": {
+                "OBJECTID": 54,
+                "No_": 55,
+                "Nama_Apotek": "Apotek Mandiri Prima",
+                "Alamat": "Sidomulyo Timur, Marpoyan Damai",
+                "Kecamatan": "Marpoyan Damai",
+                "Skala": "Kecil",
+                "BPJS": "Tidak Melayani",
+                "Rating": 6.5,
+                "Y": 0.46164167168771397,
+                "X": 101.41865965474,
+                "Link_Foto": "https://goalkes-images.s3-ap-southeast-1.amazonaws.com/pharmacies/IYBN0QvsO0vJlnVDs21wpz3Ylz6oY3ift5kixgux.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 55,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.43663928000007, 0.48959512500005076]
+            },
+            "properties": {
+                "OBJECTID": 55,
+                "No_": 56,
+                "Nama_Apotek": "Apotek BJM Medika",
+                "Alamat": "Jl. Paus Ujung No.101, Tengkerang Bar",
+                "Kecamatan": "Marpoyan Damai",
+                "Skala": "Sedang",
+                "BPJS": "Tidak Melayani",
+                "Rating": 8.3,
+                "Y": 0.489595124529004,
+                "X": 101.436639279793,
+                "Link_Foto": "https://static.sehatq.com/cdn-cgi/image/f=auto,onerror=redirect/tokoq/products/p2poklrjnycm2494kulidv6a0in5"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 56,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.36926000000005,0.45364000000006399]
+            },
+            "properties": {
+                "OBJECTID": 56,
+                "No_": 57,
+                "Nama_Apotek": "Apotek Laksmana",
+                "Alamat": "Jl. Kubang Raya No.km 1, Tuah Karya",
+                "Kecamatan": "Tampan",
+                "Skala": "Kecil",
+                "BPJS": "Tidak Melayani",
+                "Rating": 7.4,
+                "Y": 0.45363999999999999,
+                "X": 101.36926,
+                "Link_Foto": "https://goo.gl/maps/rY2jSwxXFatUbTLh9"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 57,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.43928685600008,0.49919901100003017]
+            },
+            "properties": {
+                "OBJECTID": 57,
+                "No_": 58,
+                "Nama_Apotek": "Apotek Adelina",
+                "Alamat": "Jl. Paus No.21, Tengkerang Tengah",
+                "Kecamatan": "Marpoyan Damai",
+                "Skala": "Sedang",
+                "BPJS": "Tidak Melayani",
+                "Rating": 6.9,
+                "Y": 0.49919901135246297,
+                "X": 101.439286856495,
+                "Link_Foto": "https://goalkes-images.s3-ap-southeast-1.amazonaws.com/pharmacies/AKCcKyCJTSYMirwb7HUiXOn65KOJCWAcDL3rKF9B.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 58,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.36857935300009,0.46329044700001987]
+            },
+            "properties": {
+                "OBJECTID": 58,
+                "No_": 59,
+                "Nama_Apotek": "Apotik yolaris farma",
+                "Alamat": "Jl. HR.Soebrantas No.355, Tuah Karya",
+                "Kecamatan": "Tampan",
+                "Skala": "Kecil",
+                "BPJS": "Tidak Melayani",
+                "Rating": 7.1,
+                "Y": 0.46329044684614201,
+                "X": 101.36857935332,
+                "Link_Foto": "https://goo.gl/maps/RKYpPNMo7wHsrN4h7"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 59,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.42114025000006,0.51751540700007581]
+            },
+            "properties": {
+                "OBJECTID": 59,
+                "No_": 60,
+                "Nama_Apotek": "Apotek Trans",
+                "Alamat": "Jl. Durian No.80 A-B, Labuh Baru Tim.",
+                "Kecamatan": "Payung Sekaki",
+                "Skala": "Besar",
+                "BPJS": "Melayani",
+                "Rating": 7.9,
+                "Y": 0.51751540652920103,
+                "X": 101.421140249883,
+                "Link_Foto": "https://goalkes-images.s3-ap-southeast-1.amazonaws.com/pharmacies/9utzN0DFao8IJOmlmVuAqlMcWza1q3dy54zBatNP.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 60,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.44020505900005,0.52280820000004269]
+            },
+            "properties": {
+                "OBJECTID": 60,
+                "No_": 61,
+                "Nama_Apotek": "Apotek Dahlia",
+                "Alamat": "Jl Dahlia No 18",
+                "Kecamatan": "Sukajadi",
+                "Skala": "Sedang",
+                "BPJS": "Tidak Melayani",
+                "Rating": 7.5,
+                "Y": 0.52280819993940197,
+                "X": 101.44020505900799,
+                "Link_Foto": "https://goalkes-images.s3-ap-southeast-1.amazonaws.com/pharmacies/PKbQFYSUj6U0I2KYk2Maaf2EaEh9pGerDGWQkVOe.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 61,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.43439534300006,0.52702868900007616]
+            },
+            "properties": {
+                "OBJECTID": 61,
+                "No_": 62,
+                "Nama_Apotek": "Apotek Mutiara",
+                "Alamat": "Jl. Melur No.69, Harjosari",
+                "Kecamatan": "Sukajadi",
+                "Skala": "Kecil",
+                "BPJS": "Tidak Melayani",
+                "Rating": 6.7,
+                "Y": 0.52702868896752697,
+                "X": 101.43439534255199,
+                "Link_Foto": "https://goalkes-images.s3-ap-southeast-1.amazonaws.com/pharmacies/yYHfpCmKe8mVRAZXz10tDpwLSEqpHaO36XJJ0A5v.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 62,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.44228000000004,0.56104000000004817]
+            },
+            "properties": {
+                "OBJECTID": 62,
+                "No_": 63,
+                "Nama_Apotek": "Apotik SS.Piramida",
+                "Alamat": "Jl. Sekolah Rumbai 30265 Pekanbaru Riau",
+                "Kecamatan": "Rumbai Pesisir",
+                "Skala": "Sedang",
+                "BPJS": "Tidak Melayani",
+                "Rating": 7,
+                "Y": 0.56103999999999998,
+                "X": 101.44228,
+                "Link_Foto": "https://goalkes-images.s3-ap-southeast-1.amazonaws.com/pharmacies/TRrnNFEGlEfhiOmrswR8NiYA4G6sFQK1bkvqiGhP.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 63,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.43645000000004,0.55986000000007152]
+            },
+            "properties": {
+                "OBJECTID": 63,
+                "No_": 64,
+                "Nama_Apotek": "Apotek Farmasia",
+                "Alamat": "Jl. Sekolah, Meranti Pandak",
+                "Kecamatan": "Rumbai Pesisir",
+                "Skala": "Sedang",
+                "BPJS": "Tidak Melayani",
+                "Rating": 8.8,
+                "Y": 0.55986000000000002,
+                "X": 101.43644999999999,
+                "Link_Foto": "https://goalkes-images.s3-ap-southeast-1.amazonaws.com/pharmacies/Nyss5LwKHCMLVa4ulhYU4wiTLAXcyIxZuOOQ0DAl.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 64,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.44388000000004, 0.53797000000002981]
+            },
+            "properties": {
+                "OBJECTID": 64,
+                "No_": 65,
+                "Nama_Apotek": "Apotek Dunia Sehat",
+                "Alamat": "Jl. Ir. H. Juanda No.104, Sago",
+                "Kecamatan": "Senapelan",
+                "Skala": "Kecil",
+                "BPJS": "Tidak Melayani",
+                "Rating": 8,
+                "Y": 0.53796999999999995,
+                "X": 101.44387999999999,
+                "Link_Foto": "https://goalkes-images.s3-ap-southeast-1.amazonaws.com/pharmacies/fWCGwnCIwCPzEXo6ekEC9UhIGHoYbvKE1BQSGwGi.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 65,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.47541140000004,0.5241024150000726]
+            },
+            "properties": {
+                "OBJECTID": 65,
+                "No_": 66,
+                "Nama_Apotek": "Apotek Kimia Farma",
+                "Alamat": "Jl. Hangtuah Ujung B No.158, Rejosari",
+                "Kecamatan": "Tenayan Raya",
+                "Skala": "Sedang",
+                "BPJS": "Tidak Melayani",
+                "Rating": 7.7,
+                "Y": 0.52410241499999999,
+                "X": 101.4754114,
+                "Link_Foto": "https://riaupos.co/thumb/1329-KF1.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 66,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.44525000000004,0.53779000000002952]
+            },
+            "properties": {
+                "OBJECTID": 66,
+                "No_": 67,
+                "Nama_Apotek": "Apotek Sumber Baru",
+                "Alamat": "JL. Insinyur Haji Juanda No.67, Sago",
+                "Kecamatan": "Senapelan",
+                "Skala": "Sedang",
+                "BPJS": "Tidak Melayani",
+                "Rating": 7.2,
+                "Y": 0.53778999999999999,
+                "X": 101.44525,
+                "Link_Foto": "https://lh5.googleusercontent.com/p/AF1QipPjuOksHx8DxBFKBGDORQ-IOynSCOZmZeGGvQzo=w408-h725-k-no"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 67,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.51154430000008,0.47792379000003393]
+            },
+            "properties": {
+                "OBJECTID": 67,
+                "No_": 68,
+                "Nama_Apotek": "Apotek Iftita",
+                "Alamat": "Kulim",
+                "Kecamatan": "Tenayan Raya",
+                "Skala": "Kecil",
+                "BPJS": "Tidak Melayani",
+                "Rating": 8,
+                "Y": 0.47792379000000001,
+                "X": 101.5115443,
+                "Link_Foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeDpzRbr8f0wG0jBzxrgurvHO7OZvpkMbXkdliIF86Eluqyc5xURqqG4IqZDEzTfmoKZY&usqp=CAU"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 68,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.44854000000004,0.56114000000002306]
+            },
+            "properties": {
+                "OBJECTID": 68,
+                "No_": 69,
+                "Nama_Apotek": "Apotek dr. MISBAH-RMC\n",
+                "Alamat": "Jl. Sembilang, Limbungan",
+                "Kecamatan": "Rumbai Pesisir",
+                "Skala": "Sedang",
+                "BPJS": "Melayani",
+                "Rating": 6.7,
+                "Y": 0.56113999999999997,
+                "X": 101.44853999999999,
+                "Link_Foto": "https://lh3.googleusercontent.com/p/AF1QipN-azxGE5hUjHsyfXU2qX-5xbP02g02t8ikcVbS=s1600-w400"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 69,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.42197260000006,0.56968760000006569]
+            },
+            "properties": {
+                "OBJECTID": 69,
+                "No_": 70,
+                "Nama_Apotek": "Apotek Abdul Hadi",
+                "Alamat": "Jl. Umban Sari No.99, Umban Sari",
+                "Kecamatan": "Rumbai",
+                "Skala": "Sedang",
+                "BPJS": "Melayani",
+                "Rating": 8.3,
+                "Y": 0.56968759999999996,
+                "X": 101.4219726,
+                "Link_Foto": "https://goalkes-images.s3-ap-southeast-1.amazonaws.com/pharmacies/sXii4bAToNqUgmRvRCqi2sN45rW3KgaDTKuDuTbO.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 70,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.43924000000004,0.5301600000000235]
+            },
+            "properties": {
+                "OBJECTID": 70,
+                "No_": 71,
+                "Nama_Apotek": "Apotik Medika Pekanbaru",
+                "Alamat": "Jl. Cempaka No.55, Sukajadi",
+                "Kecamatan": "Sukajadi",
+                "Skala": "Kecil",
+                "BPJS": "Tidak Melayani",
+                "Rating": 8.3,
+                "Y": 0.53015999999999996,
+                "X": 101.43924,
+                "Link_Foto": "https://goalkes-images.s3-ap-southeast-1.amazonaws.com/pharmacies/qRv6TUbBMXBLlR0rDKbUwohM2189i1h6Ft62phqz.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 71,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.44922000000008,0.56834000000003471]
+            },
+            "properties": {
+                "OBJECTID": 71,
+                "No_": 72,
+                "Nama_Apotek": "Apotek Keluarga RUMBAI ( 4 )\n",
+                "Alamat": "Jl.Sembilang No.16 A ",
+                "Kecamatan": "Rumbai Pesisir",
+                "Skala": "Kecil",
+                "BPJS": "Tidak Melayani",
+                "Rating": 7.5,
+                "Y": 0.56833999999999996,
+                "X": 101.44922,
+                "Link_Foto": "https://lh5.googleusercontent.com/p/AF1QipMXUDKAmQIxuOqjea6pn6v7P_OTkyX2DyUCNt8R=w408-h326-k-no"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 72,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.45777000000004,0.51839000000006763]
+            },
+            "properties": {
+                "OBJECTID": 72,
+                "No_": 73,
+                "Nama_Apotek": "Apotek GOBAH\n",
+                "Alamat": "Jl. Letjend.S.Parman No.12c, Suka Maju",
+                "Kecamatan": "Sail",
+                "Skala": "Sedang",
+                "BPJS": "Tidak Melayani",
+                "Rating": 6.6,
+                "Y": 0.51839000000000002,
+                "X": 101.45777,
+                "Link_Foto": "https://lh5.googleusercontent.com/p/AF1QipMKgwzBUiGIrzF7wR90j6jc_1Oz4A7sHdLW8c6d=w408-h544-k-no"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 73,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.46198000000004,0.52567000000004782]
+            },
+            "properties": {
+                "OBJECTID": 73,
+                "No_": 74,
+                "Nama_Apotek": "Apotek Willy Farma",
+                "Alamat": "Jl. Hangtuah Ujung No.100, Suka Mulia",
+                "Kecamatan": "Sail",
+                "Skala": "Sedang",
+                "BPJS": "Tidak Melayani",
+                "Rating": 7.9,
+                "Y": 0.52566999999999997,
+                "X": 101.46198,
+                "Link_Foto": "https://2.bp.blogspot.com/-I2iuGBx5xf4/WAR7Gh_SVeI/AAAAAAAAEVY/KKBvpdTqNEI1RxzXGV2FS1miJT334ks8gCLcB/s1600/apotek.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 74,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.45345000000003,0.50385000000005675]
+            },
+            "properties": {
+                "OBJECTID": 74,
+                "No_": 75,
+                "Nama_Apotek": "Apotik Bahagia",
+                "Alamat": "Jl. Jend. Sudirman No.25, Cinta Raja",
+                "Kecamatan": "Sail",
+                "Skala": "Sedang",
+                "BPJS": "Tidak Melayani",
+                "Rating": 8.3,
+                "Y": 0.50385000000000002,
+                "X": 101.45345,
+                "Link_Foto": "https://www.sorodot.com/wp-content/uploads/2021/04/qwss.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 75,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.52041944000007,0.48251251000004913]
+            },
+            "properties": {
+                "OBJECTID": 75,
+                "No_": 76,
+                "Nama_Apotek": "Apotek Cahaya Farma",
+                "Alamat": "Jl. Lintas Sumatra No.258, Sail",
+                "Kecamatan": "Tenayan Raya",
+                "Skala": "Sedang",
+                "BPJS": "Tidak Melayani",
+                "Rating": 7,
+                "Y": 0.48251251000000001,
+                "X": 101.52041944,
+                "Link_Foto": "https://lh3.googleusercontent.com/p/AF1QipPa9HxOmcHBlh34YXwZ4faesy1Tej4RnvxpV3hb=s1600-w400"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 76,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.50495500000005,0.50834000000003243]
+            },
+            "properties": {
+                "OBJECTID": 76,
+                "No_": 77,
+                "Nama_Apotek": "Apotik ALITA\n",
+                "Alamat": "Jl. Hangtuah Ujung No.157, Sail",
+                "Kecamatan": "Tenayan Raya",
+                "Skala": "Sedang",
+                "BPJS": "Tidak Melayani",
+                "Rating": 8.3,
+                "Y": 0.50834000000000001,
+                "X": 101.504955,
+                "Link_Foto": "https://lh5.googleusercontent.com/p/AF1QipMGj8-jPs5Cl5lT_OpU1dkKmKoSSv_1L1RGsX5s=w408-h306-k-no"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 77,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.51010000000008,0.50345000000004347]
+            },
+            "properties": {
+                "OBJECTID": 77,
+                "No_": 78,
+                "Nama_Apotek": "Apotek Bertuah Hangtuah",
+                "Alamat": "Jl. Lintas Sumatra, Sail",
+                "Kecamatan": "Tenayan Raya",
+                "Skala": "Kecil",
+                "BPJS": "Tidak Melayani",
+                "Rating": 7.2,
+                "Y": 0.50344999999999995,
+                "X": 101.51009999999999,
+                "Link_Foto": "https://lh5.googleusercontent.com/p/AF1QipP_YxXvx6hsYb6KRd3oHgziPht37wCafZ8rT5nl=w408-h725-k-no"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 78,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.42993000000007, 0.54044000000004644]
+            },
+            "properties": {
+                "OBJECTID": 78,
+                "No_": 79,
+                "Nama_Apotek": "Sanitas Farma\n",
+                "Alamat": "Jl. Riau No.129, Kp. Baru",
+                "Kecamatan": "Senapelan",
+                "Skala": "Kecil",
+                "BPJS": "Tidak Melayani",
+                "Rating": 8.3,
+                "Y": 0.54044000000000003,
+                "X": 101.42993,
+                "Link_Foto": "https://lh3.googleusercontent.com/p/AF1QipObaul2MRu5tK9uO-jdH4uMGTh4jVnZlhfMNmgc=s1600-w400"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 79,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.44332000000009,0.53906000000006316]
+            },
+            "properties": {
+                "OBJECTID": 79,
+                "No_": 80,
+                "Nama_Apotek": "Apotik Sentosa",
+                "Alamat": "Jl. Jend. Ahmad Yani No.17 B, Sago",
+                "Kecamatan": "Senapelan",
+                "Skala": "Sedang",
+                "BPJS": "Tidak Melayani",
+                "Rating": 8.2,
+                "Y": 0.53905999999999998,
+                "X": 101.44332,
+                "Link_Foto": "https://lh3.googleusercontent.com/p/AF1QipPVYeWMgCS8BhKuNLELnEK_QVeEPbinQ677xQhn=s1600-w480"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 80,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.44813000000005,0.54593000000005532]
+            },
+            "properties": {
+                "OBJECTID": 80,
+                "No_": 81,
+                "Nama_Apotek": "Toko Obat Sumber Baru",
+                "Alamat": "JL. Insinyur Haji Juanda No.67, Sago",
+                "Kecamatan": "Senapelan",
+                "Skala": "Kecil",
+                "BPJS": "Tidak Melayani",
+                "Rating": 7.9,
+                "Y": 0.54593000000000003,
+                "X": 101.44813000000001,
+                "Link_Foto": "https://lh5.googleusercontent.com/p/AF1QipPjuOksHx8DxBFKBGDORQ-IOynSCOZmZeGGvQzo=w408-h725-k-noo"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 81,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.43989000000005,0.53700000000003456]
+            },
+            "properties": {
+                "OBJECTID": 81,
+                "No_": 82,
+                "Nama_Apotek": "Apotik Derma Farma",
+                "Alamat": "GCHQ+CR5, Padang Bulan",
+                "Kecamatan": "Senapelan",
+                "Skala": "Sedang",
+                "BPJS": "Melayani",
+                "Rating": 7.1,
+                "Y": 0.53700000000000003,
+                "X": 101.43989000000001,
+                "Link_Foto": "https://s-yoolk-images.s3.amazonaws.com/id/gallery_images/x_medium/1433864325/41808?1433864325"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 82,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.44367000000005,0.54044000000004644]
+            },
+            "properties": {
+                "OBJECTID": 82,
+                "No_": 83,
+                "Nama_Apotek": "Toko Obat Asia",
+                "Alamat": "Sago",
+                "Kecamatan": "Senapelan",
+                "Skala": "Kecil",
+                "BPJS": "Tidak Melayani",
+                "Rating": 8.5,
+                "Y": 0.54044000000000003,
+                "X": 101.44367,
+                "Link_Foto": "https://s-yoolk-images.s3.amazonaws.com/id/gallery_images/medium/1434209282/289569?1434209282 "
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 83,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.50563000000005,0.5109800000000746]
+            },
+            "properties": {
+                "OBJECTID": 83,
+                "No_": 84,
+                "Nama_Apotek": "Apotek Rcty\n",
+                "Alamat": "Jalan Hangtuah Ujung, Kelurahan No.151A, Sail",
+                "Kecamatan": "Tenayan Raya",
+                "Skala": "Sedang",
+                "BPJS": "Tidak Melayani",
+                "Rating": 8.8,
+                "Y": 0.51097999999999999,
+                "X": 101.50563,
+                "Link_Foto": "https://goalkes-images.s3-ap-southeast-1.amazonaws.com/pharmacies/ZEBznSila4v18VneGdUMb0zogdkdgtcNpP9PvoSD.jpg "
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 84,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.36795205504353,0.46504251234771393]
+            },
+            "properties": {
+                "OBJECTID": 84,
+                "No_": 85,
+                "Nama_Apotek": "Apotek Wahana",
+                "Alamat": "Gg. Dahlia No.3, Simpang Baru",
+                "Kecamatan": "Tampan",
+                "Skala": "Sedang",
+                "BPJS": "Tidak Melayani",
+                "Rating": 7.9,
+                "Y": 0.4650425,
+                "X": 101.367952,
+                "Link_Foto": "https://1.bp.blogspot.com/-pUW9ODdUmaU/XManM0NKV5I/AAAAAAAAEU8/CSaeW3Z4b9U97cSn2ROBLl2MR7RoGvlHgCLcBGAs/s400/cats.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 85,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.37962141086048,0.464079697827456]
+            },
+            "properties": {
+                "OBJECTID": 85,
+                "No_": 86,
+                "Nama_Apotek": "Apotek Kimia Farma 596",
+                "Alamat": "JL. HR. Soebrantas, No. 103, Panam, Tuah Karya",
+                "Kecamatan": "Tampan",
+                "Skala": "Besar",
+                "BPJS": "Melayani",
+                "Rating": 8,
+                "Y": 0.464079,
+                "X": 101.3796214,
+                "Link_Foto": "https://goalkes-images.s3-ap-southeast-1.amazonaws.com/pharmacies/ph3UUByecpvtiSWhAwlQIODx7RS9n0vDAfUWxlH6.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 86,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.39503461271676,0.45761605502458597]
+            },
+            "properties": {
+                "OBJECTID": 86,
+                "No_": 87,
+                "Nama_Apotek": "Apotek Cipta Mutiara",
+                "Alamat": "Jl. Cipta Karya, Sidomulyo Bar",
+                "Kecamatan": "Tampan",
+                "Skala": "Sedang",
+                "BPJS": "Tidak Melayani",
+                "Rating": 7.5,
+                "Y": 0.457616,
+                "X": 101.3950346,
+                "Link_Foto": "https://goalkes-images.s3-ap-southeast-1.amazonaws.com/pharmacies/Gk4eLhNbCMeMh3jgpwY499QBP7Bh05G6gRYwAoTn.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 87,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.43970471086043,0.5216538242299725]
+            },
+            "properties": {
+                "OBJECTID": 87,
+                "No_": 88,
+                "Nama_Apotek": "Apotek Harmoni",
+                "Alamat": "Jl. KH. Ahmad Dahlan, Sukajadi",
+                "Kecamatan": "Sukajadi",
+                "Skala": "Kecil",
+                "BPJS": "Tidak Melayani",
+                "Rating": 7.7,
+                "Y": 0.5216538,
+                "X": 101.4397047,
+                "Link_Foto": "https://goalkes-images.s3-ap-southeast-1.amazonaws.com/pharmacies/0qBC9n1Ltgy2cUOhR5b3clJnXqszvHO57i2QPRoR.jpg "
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 88,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.43835144155341,0.5107831973624871]
+            },
+            "properties": {
+                "OBJECTID": 88,
+                "No_": 89,
+                "Nama_Apotek": "Apotek Citra Pharma",
+                "Alamat": "Jl. Kh Ahmad Dahlan 85 B, Kp. Tengah",
+                "Kecamatan": "Sukajadi",
+                "Skala": "Kecil",
+                "BPJS": "Tidak Melayani",
+                "Rating": 7.7000000000000002,
+                "Y": 0.510783,
+                "X": 101.4383514,
+                "Link_Foto": "https://goalkes-images.s3-ap-southeast-1.amazonaws.com/pharmacies/lWUOs23ODIw0MFDXUEWS5sKPvDbYBkolwK4ZPCJe.jpg "
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 89,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.48333981271676,0.49559559676683246]
+            },
+            "properties": {
+                "OBJECTID": 89,
+                "No_": 90,
+                "Nama_Apotek": "Apotek Cendana Farma",
+                "Alamat": "Jl. Imam Munandar No.356, Tengkerang Tim",
+                "Kecamatan": "Tenayan Raya",
+                "Skala": "Sedang",
+                "BPJS": "Tidak Melayani",
+                "Rating": 8.1,
+                "Y": 0.49559559,
+                "X": 101.4833398127,
+                "Link_Foto": "https://goalkes-images.s3-ap-southeast-1.amazonaws.com/pharmacies/1x1D77G2ZrCRuMlwD3JhVJ4tSy8D9dDulV3lH6G2.jpg "
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 90,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.44012659737035,0.5287027834061002]
+            },
+            "properties": {
+                "OBJECTID": 90,
+                "No_": 91,
+                "Nama_Apotek": "Apotek Cempaka",
+                "Alamat": "Jl. Cempaka No.66, Padang Bulan",
+                "Kecamatan": "Senapelan",
+                "Skala": "Sedang",
+                "BPJS": "Melayani",
+                "Rating": 7.6,
+                "Y": 0.52870278,
+                "X": 101.44012499999999,
+                "Link_Foto": "https://goalkes-images.s3-ap-southeast-1.amazonaws.com/pharmacies/hRteWJyYBpryuFp1WAUij6BkyLcBB5wDUlAMdVtl.jpg "
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 91,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.47914173969711,0.5253870253907714]
+            },
+            "properties": {
+                "OBJECTID": 91,
+                "No_": 92,
+                "Nama_Apotek": "Apotek Berkah Rejosari",
+                "Alamat": "Jl. Sail, Rejosari",
+                "Kecamatan": "Tenayan Raya",
+                "Skala": "Kecil",
+                "BPJS": "Tidak Melayani",
+                "Rating": 8,
+                "Y": 0.525387,
+                "X": 101.479191,
+                "Link_Foto": "https://goalkes-images.s3-ap-southeast-1.amazonaws.com/pharmacies/k6j3DxwAdze1zE6BW5p1Occ4YVemg93j9s7MLkpN.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 92,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.45882673969705,0.49959538291402217]
+            },
+            "properties": {
+                "OBJECTID": 92,
+                "No_": 93,
+                "Nama_Apotek": "Apotek Bunda",
+                "Alamat": "Jl. Imam Munandar, Tengkerang Sel",
+                "Kecamatan": "Bukit Raya",
+                "Skala": "Besar",
+                "BPJS": "Tidak Melayani",
+                "Rating": 7.5,
+                "Y": 0.499595,
+                "X": 101.458873,
+                "Link_Foto": "https://goalkes-images.s3-ap-southeast-1.amazonaws.com/pharmacies/rPlADsfA0AEx4VPE25Xu78EF52QMd6MVBCWK0qby.jpg "
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 93,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.4638989127167,0.48104309885354546]
+            },
+            "properties": {
+                "OBJECTID": 93,
+                "No_": 94,
+                "Nama_Apotek": "Apotik Barokah",
+                "Alamat": "Jl. Datuk Setia Maharaja, Tengkerang Sel",
+                "Kecamatan": "Bukit Raya",
+                "Skala": "Kecil",
+                "BPJS": "Tidak Melayani",
+                "Rating": 7.5,
+                "Y": 0.48104309,
+                "X": 101.46402,
+                "Link_Foto": "https://goalkes-images.s3-ap-southeast-1.amazonaws.com/pharmacies/LnrWV97qJIaCwButwDCZ8n2m1laKKVUzAceAcWAH.jpg "
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 94,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.43875576803774,0.49769161222742514]
+            },
+            "properties": {
+                "OBJECTID": 94,
+                "No_": 95,
+                "Nama_Apotek": "Apotik Bina Sukses Mandiri",
+                "Alamat": "Jl. Paus No.115, Tengkerang Tengah",
+                "Kecamatan": "Marpoyan Damai",
+                "Skala": "Kecil",
+                "BPJS": "Tidak Melayani",
+                "Rating": 7.7999999999999998,
+                "Y": 0.4976916,
+                "X": 101.438755768,
+                "Link_Foto": "https://goalkes-images.s3-ap-southeast-1.amazonaws.com/pharmacies/Pc6q2cTwA9l1N9MR8sfEwsA2pp90ZxFaHAEFKXyI.jpg "
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 95,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.41331699645177,0.5199637043440369]
+            },
+            "properties": {
+                "OBJECTID": 95,
+                "No_": 96,
+                "Nama_Apotek": "Apotek Bertuah",
+                "Alamat": "Jl. Darma Bakti, Labuh Baru Bar",
+                "Kecamatan": "Pekanbaru Kota",
+                "Skala": "Kecil",
+                "BPJS": "Tidak Melayani",
+                "Rating": 7.9,
+                "Y": 0.5199637,
+                "X": 101.41347500000001,
+                "Link_Foto": "https://goalkes-images.s3-ap-southeast-1.amazonaws.com/pharmacies/O2jenTD2P8J50xzKCwwdabpoz3vg3rMuZs3uNTJh.jpg "
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 96,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.49148868388015,0.4954558545964175]
+            },
+            "properties": {
+                "OBJECTID": 96,
+                "No_": 97,
+                "Nama_Apotek": "Apotek Atiga",
+                "Alamat": "Jl. Lintas Sumatra, Tengkerang Tim",
+                "Kecamatan": "Tenayan Raya",
+                "Skala": "Sedang",
+                "BPJS": "Tidak Melayani",
+                "Rating": 8.1,
+                "Y": 0.495455854,
+                "X": 101.49148099999999,
+                "Link_Foto": "https://goalkes-images.s3-ap-southeast-1.amazonaws.com/pharmacies/64HW6jZiFRLR0C78loiUsYwehEoZseJKBOcfBvJA.jpg "
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 97,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.40873579737031,0.4792506988745464]
+            },
+            "properties": {
+                "OBJECTID": 97,
+                "No_": 98,
+                "Nama_Apotek": "Apotek 72",
+                "Alamat": "Jl. Lobak No.105C, Delima",
+                "Kecamatan": "Tampan",
+                "Skala": "Sedang",
+                "BPJS": "Melayani",
+                "Rating": 8.5,
+                "Y": 0.4792506,
+                "X": 101.408748,
+                "Link_Foto": "https://homedecorpekanbaru.com/wp-content/uploads/2020/07/Photo_1593493230256-e1594454284907.jpg  "
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 98,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.44892534155336,0.5211067958583561]
+            },
+            "properties": {
+                "OBJECTID": 98,
+                "No_": 99,
+                "Nama_Apotek": "Apotek Graha Estetika",
+                "Alamat": "Jl. Kartini No.19, Sumahilang",
+                "Kecamatan": "Pekanbaru Kota",
+                "Skala": "Sedang",
+                "BPJS": "Melayani",
+                "Rating": 7.7,
+                "Y": 0.52110679,
+                "X": 101.448944,
+                "Link_Foto": "https://goalkes-images.s3-ap-southeast-1.amazonaws.com/pharmacies/DuyBI6Qf8o82Jhhr0UAjMb3YMggyd1cVwQI4x3KC.jpg "
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 99,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.39746312620689,0.4643178414651853]
+            },
+            "properties": {
+                "OBJECTID": 99,
+                "No_": 100,
+                "Nama_Apotek": "Apotek Keluarga17",
+                "Alamat": "Jl. HR.Soebrantas No.2, Delima",
+                "Kecamatan": "Tampan",
+                "Skala": "Besar",
+                "BPJS": "Tidak Melayani",
+                "Rating": 8,
+                "Y": 0.464317841,
+                "X": 101.397446,
+                "Link_Foto": "https://cdn-2.tstatic.net/pekanbaru/foto/bank/images/apotek-keluarga-buka-cabang-ketujuh_20181019_174826.jpg"
+            }
+        }
+    ]
+}

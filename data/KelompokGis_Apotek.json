@@ -1,0 +1,1061 @@
+{
+    "type" : "FeatureCollection",
+    "crs" : {
+      "type" : "name",
+      "properties" : {
+        "name" : "EPSG:4326"
+      }
+    },
+    "features" : [
+      {
+        "type" : "Feature",
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [
+            106.8314367,
+            -6.1719049689999999
+          ]
+        },
+        "properties" : {
+          "id" : 1,
+          "NamaBUMN" : "PT. Pertamina",
+          "Jenis" : "Persero",
+          "KlasterIndustri" : "Industri Energi, Minyak dan Gas",
+          "Rating" : 4.2999999999999998,
+          "Y" : -6.1719049689999999,
+          "X" : 106.8314367,
+          "Website" : "http://www.pertamina.com/",
+          "LinkFoto" : "https://drive.google.com/file/d/1NBPSA1jw5OYJ_cY7NxmzSfMJZ8dCGWeB/view?usp=share_link"
+        }
+      },
+      {
+        "type" : "Feature",
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [
+            106.81797039999999,
+            -6.2298283190000001
+          ]
+        },
+        "properties" : {
+          "id" : 2,
+          "NamaBUMN" : "PT Telkom Indonesia Tbk",
+          "Jenis" : "Persero",
+          "KlasterIndustri" : "Jasa Telekomunikasi dan Media",
+          "Rating" : 4,
+          "Y" : -6.2298283190000001,
+          "X" : 106.81797039999999,
+          "Website" : "https://www.telkom.co.id/",
+          "LinkFoto" : "https://drive.google.com/file/d/18FxS9_BCBMGrK4L1kfQIJpvA7gKuMwM0/view?usp=share_link"
+        }
+      },
+      {
+        "type" : "Feature",
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [
+            106.8205026,
+            -6.2023927260000002
+          ]
+        },
+        "properties" : {
+          "id" : 3,
+          "NamaBUMN" : "PT Bank Negara Indonesia",
+          "Jenis" : "Persero",
+          "KlasterIndustri" : "Jasa Keuangan",
+          "Rating" : 4.2000000000000002,
+          "Y" : -6.2023927260000002,
+          "X" : 106.8205026,
+          "Website" : "http://www.bni.co.id/",
+          "LinkFoto" : "https://drive.google.com/file/d/14ZgX4OMJIF99Lc6sdSjq1KAD0ekEcaTg/view?usp=share_link"
+        }
+      },
+      {
+        "type" : "Feature",
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [
+            106.8460954,
+            -6.1891741309999997
+          ]
+        },
+        "properties" : {
+          "id" : 4,
+          "NamaBUMN" : "PT Pegadaian",
+          "Jenis" : "Persero",
+          "KlasterIndustri" : "Jasa Keuangan",
+          "Rating" : 4.2000000000000002,
+          "Y" : -6.1891741309999997,
+          "X" : 106.8460954,
+          "Website" : "http://www.pegadaian.co.id/",
+          "LinkFoto" : "https://drive.google.com/file/d/1Dlel1a2CTdrNd518AZPfoAj0vgq-cz4C/view?usp=share_link"
+        }
+      },
+      {
+        "type" : "Feature",
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [
+            107.6173878,
+            -6.9064704710000004
+          ]
+        },
+        "properties" : {
+          "id" : 5,
+          "NamaBUMN" : "PT. Pos Indonesia",
+          "Jenis" : "Persero",
+          "KlasterIndustri" : "Jasa Logistik",
+          "Rating" : 4,
+          "Y" : -6.9064704710000004,
+          "X" : 107.6173878,
+          "Website" : "http://www.posindonesia.co.id/",
+          "LinkFoto" : "https://drive.google.com/file/d/1Q_TSHCBGQ0bh0zNNhdwS3XE2hQuRC4tG/view?usp=share_link"
+        }
+      },
+      {
+        "type" : "Feature",
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [
+            106.8151409,
+            -6.2169418150000002
+          ]
+        },
+        "properties" : {
+          "id" : 6,
+          "NamaBUMN" : "PT Bank Rakyat Indonesia",
+          "Jenis" : "Persero",
+          "KlasterIndustri" : "Jasa Keuangan",
+          "Rating" : 4,
+          "Y" : -6.2169418150000002,
+          "X" : 106.8151409,
+          "Website" : "https://bri.co.id/",
+          "LinkFoto" : "https://drive.google.com/file/d/18C0Ubd5I0aefzl_WYdB1TzgJoV0qiu9V/view?usp=share_link"
+        }
+      },
+      {
+        "type" : "Feature",
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [
+            106.8199202,
+            -6.1664464260000003
+          ]
+        },
+        "properties" : {
+          "id" : 7,
+          "NamaBUMN" : " PT Bank Tabungan Negara",
+          "Jenis" : "Persero",
+          "KlasterIndustri" : "Jasa Keuangan",
+          "Rating" : 3.7999999999999998,
+          "Y" : -6.1664464260000003,
+          "X" : 106.8199202,
+          "Website" : "http://www.btn.co.id/",
+          "LinkFoto" : "https://drive.google.com/file/d/1BvsgE3wKSPGK8dcjrlObYYfH66SRByu9/view?usp=share_link"
+        }
+      },
+      {
+        "type" : "Feature",
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [
+            106.80309080000001,
+            -6.2400238449999996
+          ]
+        },
+        "properties" : {
+          "id" : 8,
+          "NamaBUMN" : "PT Perusahaan Listrik Negara",
+          "Jenis" : "Persero",
+          "KlasterIndustri" : "Industri Energi, Minyak dan Gas",
+          "Rating" : 4.0999999999999996,
+          "Y" : -6.2400238449999996,
+          "X" : 106.80309080000001,
+          "Website" : "http://www.pln.co.id/",
+          "LinkFoto" : "https://drive.google.com/file/d/1L1RJIKWYfpTeF-zFcSMDa9M5yIywgbNX/view?usp=share_link"
+        }
+      },
+      {
+        "type" : "Feature",
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [
+            106.8380094,
+            -6.2348431059999996
+          ]
+        },
+        "properties" : {
+          "id" : 9,
+          "NamaBUMN" : "PT. Bank Mandiri",
+          "Jenis" : "Persero",
+          "KlasterIndustri" : "Jasa Keuangan",
+          "Rating" : 3.6000000000000001,
+          "Y" : -6.2348431059999996,
+          "X" : 106.8380094,
+          "Website" : "https://www.bankmandiri.co.id/",
+          "LinkFoto" : "https://drive.google.com/file/d/1rRch3iHHqclaXeX78zvy97Pz4FqvBw3v/view?usp=share_link"
+        }
+      },
+      {
+        "type" : "Feature",
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [
+            106.8306487,
+            -6.211014842
+          ]
+        },
+        "properties" : {
+          "id" : 10,
+          "NamaBUMN" : "PT. Jasa Raharja",
+          "Jenis" : "Persero",
+          "KlasterIndustri" : "Jasa Asuransi dan Dana Pensiun",
+          "Rating" : 4.5,
+          "Y" : -6.211014842,
+          "X" : 106.8306487,
+          "Website" : "http://www.jasaraharja.co.id/",
+          "LinkFoto" : "https://drive.google.com/file/d/1JG1w4lb8lRnpGlP1ckIiu2ef1oMEcYhY/view?usp=share_link"
+        }
+      },
+      {
+        "type" : "Feature",
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [
+            107.09027810000001,
+            -6.2777953289999999
+          ]
+        },
+        "properties" : {
+          "id" : 11,
+          "NamaBUMN" : "PT. Indofarma",
+          "Jenis" : "Persero",
+          "KlasterIndustri" : "Industri Kesehatan",
+          "Rating" : 5,
+          "Y" : -6.2777953289999999,
+          "X" : 107.09027810000001,
+          "Website" : "http://www.indofarma.id/",
+          "LinkFoto" : "https://drive.google.com/file/d/14po_fDhLm0D4ngVQTYzUouEUjQttQ7rm/view?usp=share_link"
+        }
+      },
+      {
+        "type" : "Feature",
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [
+            106.87463099999999,
+            -6.2450055300000002
+          ]
+        },
+        "properties" : {
+          "id" : 12,
+          "NamaBUMN" : "PT. Waskita Karya",
+          "Jenis" : "Persero",
+          "KlasterIndustri" : "Jasa Infrastruktur",
+          "Rating" : 4.2999999999999998,
+          "Y" : -6.2450055300000002,
+          "X" : 106.87463099999999,
+          "Website" : "http://www.waskita.co.id/",
+          "LinkFoto" : "https://drive.google.com/file/d/143AaLt2VJ_1edMdcZU9C8wW2AHo1LbJk/view?usp=share_link"
+        }
+      },
+      {
+        "type" : "Feature",
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [
+            106.82939880000001,
+            -6.2363685889999996
+          ]
+        },
+        "properties" : {
+          "id" : 13,
+          "NamaBUMN" : "Perum Bulog",
+          "Jenis" : "Perum",
+          "KlasterIndustri" : "Industri Pangan dan Pupuk",
+          "Rating" : 4.4000000000000004,
+          "Y" : -6.2363685889999996,
+          "X" : 106.82939880000001,
+          "Website" : "http://www.bulog.co.id/",
+          "LinkFoto" : "https://drive.google.com/file/d/1Y9rm4nY6g7JvA_9NwYFZYHGn88s70OAb/view?usp=share_link"
+        }
+      },
+      {
+        "type" : "Feature",
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [
+            106.8135205,
+            -6.1600539950000002
+          ]
+        },
+        "properties" : {
+          "id" : 14,
+          "NamaBUMN" : "PT. Perusahaan Gas Negara",
+          "Jenis" : "Persero",
+          "KlasterIndustri" : "Industri Energi, Minyak dan Gas",
+          "Rating" : 4.5,
+          "Y" : -6.1600539950000002,
+          "X" : 106.8135205,
+          "Website" : "http://www.pgn.co.id/",
+          "LinkFoto" : "https://drive.google.com/file/d/17LWZLcxOBN9Zcubk3solasnsCGV30GhG/view?usp=share_link"
+        }
+      },
+      {
+        "type" : "Feature",
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [
+            106.82641049999999,
+            -6.1669274600000001
+          ]
+        },
+        "properties" : {
+          "id" : 15,
+          "NamaBUMN" : "PT. Kimia Farma",
+          "Jenis" : "Persero",
+          "KlasterIndustri" : "Industri Kesehatan",
+          "Rating" : 4.5,
+          "Y" : -6.1669274600000001,
+          "X" : 106.82641049999999,
+          "Website" : "http://www.kimiafarma.co.id/",
+          "LinkFoto" : "https://drive.google.com/file/d/1aB3OYCHn4pNZhExm06-JEIYDDkphO59x/view?usp=share_link"
+        }
+      },
+      {
+        "type" : "Feature",
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [
+            106.8765587,
+            -6.2419283300000004
+          ]
+        },
+        "properties" : {
+          "id" : 16,
+          "NamaBUMN" : "PT. Wijaya Karya",
+          "Jenis" : "Persero",
+          "KlasterIndustri" : "Jasa Infrastruktur",
+          "Rating" : 5,
+          "Y" : -6.2419283300000004,
+          "X" : 106.8765587,
+          "Website" : "http://www.wika.co.id/",
+          "LinkFoto" : "https://drive.google.com/file/d/1vUgr7QhDmck2peEPdlkckAC2eYFcQTaz/view?usp=share_link"
+        }
+      },
+      {
+        "type" : "Feature",
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [
+            106.8571324,
+            -6.3029643970000002
+          ]
+        },
+        "properties" : {
+          "id" : 17,
+          "NamaBUMN" : "PT. Pembangunan Perumahan",
+          "Jenis" : "Persero",
+          "KlasterIndustri" : "Jasa Infrastruktur",
+          "Rating" : 4.4000000000000004,
+          "Y" : -6.3029643970000002,
+          "X" : 106.8571324,
+          "Website" : "http://www.pt-pp.com/",
+          "LinkFoto" : "https://drive.google.com/file/d/1sEsBr2fe0uk25moXIYMFTJ2FM9siiUVh/view?usp=share_link"
+        }
+      },
+      {
+        "type" : "Feature",
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [
+            113.93588339999999,
+            -7.0520487640000002
+          ]
+        },
+        "properties" : {
+          "id" : 18,
+          "NamaBUMN" : "PT. Garam",
+          "Jenis" : "Persero",
+          "KlasterIndustri" : "Industri Pangan dan Pupuk",
+          "Rating" : 4.4000000000000004,
+          "Y" : -7.0520487640000002,
+          "X" : 113.93588339999999,
+          "Website" : "http://www.ptgaram.com/",
+          "LinkFoto" : "https://f1-styx.imgix.net/article/2019/07/24023839/1-12.jpg"
+        }
+      },
+      {
+        "type" : "Feature",
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [
+            106.8206453,
+            -6.2147448670000003
+          ]
+        },
+        "properties" : {
+          "id" : 19,
+          "NamaBUMN" : "PT. Garuda Indonesia",
+          "Jenis" : "Persero",
+          "KlasterIndustri" : "Jasa Pariwisata dan Pendukung",
+          "Rating" : 4.5,
+          "Y" : -6.2147448670000003,
+          "X" : 106.8206453,
+          "Website" : "http://www.garuda-indonesia.com/",
+          "LinkFoto" : "https://drive.google.com/file/d/13WNbHStmxGVKiN1cNY2ydyM1wbQYwVvP/view?usp=share_link"
+        }
+      },
+      {
+        "type" : "Feature",
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [
+            106.8453471,
+            -6.1554156530000004
+          ]
+        },
+        "properties" : {
+          "id" : 20,
+          "NamaBUMN" : "PT. Jaminan Kredit Indonesia",
+          "Jenis" : "Persero",
+          "KlasterIndustri" : "Jasa Asuransi dan Dana Pensiun",
+          "Rating" : 4.2999999999999998,
+          "Y" : -6.1554156530000004,
+          "X" : 106.8453471,
+          "Website" : "http://www.jamkrindo.co.id/",
+          "LinkFoto" : "https://drive.google.com/file/d/16FMyEX5YXra0OpbalZ-ogl8cFqCzMgCj/view?usp=share_link"
+        }
+      },
+      {
+        "type" : "Feature",
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [
+            106.8657443,
+            -6.2439332070000004
+          ]
+        },
+        "properties" : {
+          "id" : 21,
+          "NamaBUMN" : "PT. Nindya Karya",
+          "Jenis" : "Persero",
+          "KlasterIndustri" : "Jasa Telekomunikasi dan Media",
+          "Rating" : 4.5,
+          "Y" : -6.2439332070000004,
+          "X" : 106.8657443,
+          "Website" : "https://nindyakarya.co.id/",
+          "LinkFoto" : "https://drive.google.com/file/d/1FtEHaEKECH9amaTmfaXC2SBbpgVlmmOg/view?usp=share_link"
+        }
+      },
+      {
+        "type" : "Feature",
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [
+            106.8451312,
+            -6.2653739980000003
+          ]
+        },
+        "properties" : {
+          "id" : 22,
+          "NamaBUMN" : "PT. Adhi Karya",
+          "Jenis" : "Persero",
+          "KlasterIndustri" : "Jasa Infrastruktur",
+          "Rating" : 4.4000000000000004,
+          "Y" : -6.2653739980000003,
+          "X" : 106.8451312,
+          "Website" : "http://www.adhi.co.id/",
+          "LinkFoto" : "https://drive.google.com/file/d/1XBhVCwkN8i4AdzGdBRDYox-nPbVaEUE8/view?usp=share_link"
+        }
+      },
+      {
+        "type" : "Feature",
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [
+            106.8365493,
+            -6.1935962849999999
+          ]
+        },
+        "properties" : {
+          "id" : 23,
+          "NamaBUMN" : "PT. Asuransi Jiwasraya",
+          "Jenis" : "Persero",
+          "KlasterIndustri" : "Jasa Asuransi dan Dana Pensiun",
+          "Rating" : 4.2000000000000002,
+          "Y" : -6.1935962849999999,
+          "X" : 106.8365493,
+          "Website" : "https://www.jiwasraya.co.id/",
+          "LinkFoto" : "https://drive.google.com/file/d/1sUVDmCDaCsEU1u5VXt6bJBUkLvw44w39/view?usp=share_link"
+        }
+      },
+      {
+        "type" : "Feature",
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [
+            106.8247638,
+            -6.1974931230000001
+          ]
+        },
+        "properties" : {
+          "id" : 24,
+          "NamaBUMN" : "PT. Kliring Berjangka Indonesia",
+          "Jenis" : "Persero",
+          "KlasterIndustri" : "Jasa Telekomunikasi dan Media",
+          "Rating" : 5,
+          "Y" : -6.1974931230000001,
+          "X" : 106.8247638,
+          "Website" : "https://www.ptkbi.com/",
+          "LinkFoto" : "https://drive.google.com/file/d/1KNuy0-7dR5ARe1srkNhJ6Dpk0j--OHz0/view?usp=share_link"
+        }
+      },
+      {
+        "type" : "Feature",
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [
+            106.8695829,
+            -6.2568784190000004
+          ]
+        },
+        "properties" : {
+          "id" : 25,
+          "NamaBUMN" : "PT. Asabri",
+          "Jenis" : "Persero",
+          "KlasterIndustri" : "Jasa Asuransi dan Dana Pensiun",
+          "Rating" : 4.2000000000000002,
+          "Y" : -6.2568784190000004,
+          "X" : 106.8695829,
+          "Website" : "http://www.asabri.co.id/",
+          "LinkFoto" : "https://drive.google.com/file/d/1OoiNJvB4nVzZ-oDCpUmdCXX6T1hEGlWt/view?usp=share_link"
+        }
+      },
+      {
+        "type" : "Feature",
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [
+            106.86162659999999,
+            -6.1735362489999996
+          ]
+        },
+        "properties" : {
+          "id" : 26,
+          "NamaBUMN" : "PT. Taspen",
+          "Jenis" : "Persero",
+          "KlasterIndustri" : "Jasa Asuransi dan Dana Pensiun",
+          "Rating" : 4.5,
+          "Y" : -6.1735362489999996,
+          "X" : 106.86162659999999,
+          "Website" : "http://www.taspen.co.id/",
+          "LinkFoto" : "https://drive.google.com/file/d/1qL-piGD9NucfJS4MLi-gW6CewfkKsQEM/view?usp=share_link"
+        }
+      },
+      {
+        "type" : "Feature",
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [
+            106.84946530000001,
+            -6.2437705970000001
+          ]
+        },
+        "properties" : {
+          "id" : 27,
+          "NamaBUMN" : "PT. Bank Bukopin",
+          "Jenis" : "Persero",
+          "KlasterIndustri" : "Jasa Keuangan",
+          "Rating" : 4.2999999999999998,
+          "Y" : -6.2437705970000001,
+          "X" : 106.84946530000001,
+          "Website" : "http://www.bukopin.co.id/",
+          "LinkFoto" : "https://drive.google.com/file/d/1O7kYVFbrcDga2XK9P5qGN1T71MlRFPid/view?usp=share_link"
+        }
+      },
+      {
+        "type" : "Feature",
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [
+            106.8417609,
+            -6.2518292000000004
+          ]
+        },
+        "properties" : {
+          "id" : 28,
+          "NamaBUMN" : "PT. Indosat",
+          "Jenis" : "Persero",
+          "KlasterIndustri" : "Jasa Telekomunikasi dan Media",
+          "Rating" : 4,
+          "Y" : -6.2518292000000004,
+          "X" : 106.8417609,
+          "Website" : "https://indosatooredoo.com/",
+          "LinkFoto" : "https://drive.google.com/file/d/1BR5E7WfsH_zCCSwPd8CoEoogREtu2RTt/view?usp=share_link"
+        }
+      },
+      {
+        "type" : "Feature",
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [
+            106.8324698,
+            -6.2393352379999998
+          ]
+        },
+        "properties" : {
+          "id" : 29,
+          "NamaBUMN" : "PT. Surveyor Indonesia",
+          "Jenis" : "Persero",
+          "KlasterIndustri" : "Industri Manufaktur",
+          "Rating" : 4.7999999999999998,
+          "Y" : -6.2393352379999998,
+          "X" : 106.8324698,
+          "Website" : "https://www.ptsi.co.id/",
+          "LinkFoto" : "https://drive.google.com/file/d/10lN7L4xD-_-Qg3HcKqE3Xmza1sRc8cnG/view?usp=share_link"
+        }
+      },
+      {
+        "type" : "Feature",
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [
+            106.8812767,
+            -6.1122704130000001
+          ]
+        },
+        "properties" : {
+          "id" : 30,
+          "NamaBUMN" : "PT. Sucofindo",
+          "Jenis" : "Persero",
+          "KlasterIndustri" : "Industri Manufaktur",
+          "Rating" : 4.4000000000000004,
+          "Y" : -6.1122704130000001,
+          "X" : 106.8812767,
+          "Website" : "http://www.sucofindo.co.id/",
+          "LinkFoto" : "https://drive.google.com/file/d/1KNX1VIhYRGOaRxTWmXDTcl1FSTMk6pkq/view?usp=share_link "
+        }
+      },
+      {
+        "type" : "Feature",
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [
+            106.8928811,
+            -6.1265741560000002
+          ]
+        },
+        "properties" : {
+          "id" : 31,
+          "NamaBUMN" : "PT. Biro Klasifikasi Indonesia",
+          "Jenis" : "Persero",
+          "KlasterIndustri" : "Industri Manufaktur",
+          "Rating" : 4.7999999999999998,
+          "Y" : -6.1265741560000002,
+          "X" : 106.8928811,
+          "Website" : "http://www.bki.co.id/",
+          "LinkFoto" : "https://drive.google.com/file/d/11Bay9jd1ahgRifKXqD2T-B3gg-QOUHso/view?usp=share_link "
+        }
+      },
+      {
+        "type" : "Feature",
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [
+            106.84446269999999,
+            -6.1560439300000001
+          ]
+        },
+        "properties" : {
+          "id" : 32,
+          "NamaBUMN" : "PT. Asuransi Kredit Indonesia",
+          "Jenis" : "Persero",
+          "KlasterIndustri" : "Jasa Asuransi dan Dana Pensiun",
+          "Rating" : 5,
+          "Y" : -6.1560439300000001,
+          "X" : 106.84446269999999,
+          "Website" : "https://askrindo.co.id/new/id",
+          "LinkFoto" : "https://drive.google.com/file/d/1WtoBQyFcNnldb3f8_9kAh4o74gOprS2S/view?usp=share_link "
+        }
+      },
+      {
+        "type" : "Feature",
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [
+            106.8356704,
+            -6.1845528349999999
+          ]
+        },
+        "properties" : {
+          "id" : 33,
+          "NamaBUMN" : "PT. Asuransi Jasa Indonesia",
+          "Jenis" : "Persero",
+          "KlasterIndustri" : "Jasa Asuransi dan Dana Pensiun",
+          "Rating" : 4.5999999999999996,
+          "Y" : -6.1845528349999999,
+          "X" : 106.8356704,
+          "Website" : "http://www.jasindo.co.id/",
+          "LinkFoto" : "https://drive.google.com/file/d/1tSMEvq5Yb2bM6V6VwmYJ16O1qc1FfVFY/view?usp=share_link "
+        }
+      },
+      {
+        "type" : "Feature",
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [
+            106.8804583,
+            -6.1029401989999998
+          ]
+        },
+        "properties" : {
+          "id" : 34,
+          "NamaBUMN" : "PT. Pelabuhan Indonesia I",
+          "Jenis" : "Persero",
+          "KlasterIndustri" : "Jasa Logistik",
+          "Rating" : 4.5,
+          "Y" : -6.1029401989999998,
+          "X" : 106.8804583,
+          "Website" : "http://www.pelindo1.co.id/",
+          "LinkFoto" : "https://drive.google.com/file/d/1J3VuSvKErbZ6Pva38Tck4hKU3PN_7mBx/view?usp=share_link "
+        }
+      },
+      {
+        "type" : "Feature",
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [
+            106.8187805,
+            -6.1629427059999999
+          ]
+        },
+        "properties" : {
+          "id" : 35,
+          "NamaBUMN" : "PT. Pelayaran Nasional Indonesia",
+          "Jenis" : "Persero",
+          "KlasterIndustri" : "Jasa Logistik",
+          "Rating" : 5,
+          "Y" : -6.1629427059999999,
+          "X" : 106.8187805,
+          "Website" : "https://www.pelni.co.id/",
+          "LinkFoto" : "https://drive.google.com/file/d/1xD-gcAKGbrkklnZXELR_DoTpFf4n_0ek/view?usp=share_link"
+        }
+      },
+      {
+        "type" : "Feature",
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [
+            106.6561986,
+            -6.124989319
+          ]
+        },
+        "properties" : {
+          "id" : 36,
+          "NamaBUMN" : "PT. Angkasa Pura II",
+          "Jenis" : "Persero",
+          "KlasterIndustri" : "Jasa Pariwisata dan Pendukung",
+          "Rating" : 4.2999999999999998,
+          "Y" : -6.124989319,
+          "X" : 106.6561986,
+          "Website" : "http://angkasapura2.co.id/",
+          "LinkFoto" : "https://drive.google.com/file/d/1d4c2kgrZfvOAKVn_XwitheeDkh1A8-Z_/view?usp=share_link "
+        }
+      },
+      {
+        "type" : "Feature",
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [
+            106.64424200000001,
+            -6.1531717329999998
+          ]
+        },
+        "properties" : {
+          "id" : 37,
+          "NamaBUMN" : "Perum LPPNPI",
+          "Jenis" : "Perum",
+          "KlasterIndustri" : "Jasa Pariwisata dan Pendukung",
+          "Rating" : 4.5,
+          "Y" : -6.1531717329999998,
+          "X" : 106.64424200000001,
+          "Website" : "http://www.airnavindonesia.co.id/",
+          "LinkFoto" : "https://drive.google.com/file/d/1QrdIXtHAI1x9hrObqNAAD8d4ycbo9wfD/view?usp=share_link "
+        }
+      },
+      {
+        "type" : "Feature",
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [
+            106.8326632,
+            -6.1799554839999997
+          ]
+        },
+        "properties" : {
+          "id" : 38,
+          "NamaBUMN" : "Perum Lembaga Kantor Berita Nasional Antara",
+          "Jenis" : "Perum",
+          "KlasterIndustri" : "Jasa Telekomunikasi dan Media",
+          "Rating" : 4.2999999999999998,
+          "Y" : -6.1799554839999997,
+          "X" : 106.8326632,
+          "Website" : "https://korporat.antaranews.com/",
+          "LinkFoto" : "https://drive.google.com/file/d/1_sLC5XuTP1S3WPiKB5dknn9pAIDiwTU3/view?usp=share_link "
+        }
+      },
+      {
+        "type" : "Feature",
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [
+            106.87669579999999,
+            -6.2414892750000002
+          ]
+        },
+        "properties" : {
+          "id" : 39,
+          "NamaBUMN" : "Perum Perumnas",
+          "Jenis" : "Perum",
+          "KlasterIndustri" : "Jasa Infrastruktur",
+          "Rating" : 3.5,
+          "Y" : -6.2414892750000002,
+          "X" : 106.87669579999999,
+          "Website" : "https://www.perumnas.co.id/",
+          "LinkFoto" : "https://drive.google.com/file/d/1DKBxthCesI0FMYy_J-Vz1Yqa6cP5ebDs/view?usp=share_link "
+        }
+      },
+      {
+        "type" : "Feature",
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [
+            106.8214581,
+            -6.2054412289999998
+          ]
+        },
+        "properties" : {
+          "id" : 40,
+          "NamaBUMN" : "PT. Permodalan Nasional Madani",
+          "Jenis" : "Persero",
+          "KlasterIndustri" : "Jasa Keuangan",
+          "Rating" : 3.7000000000000002,
+          "Y" : -6.2054412289999998,
+          "X" : 106.8214581,
+          "Website" : "http://www.pnm.co.id/",
+          "LinkFoto" : "https://drive.google.com/file/d/1QaR6erRSAJYy9EwxhH5SQGyf-36yDfpg/view?usp=share_link "
+        }
+      },
+      {
+        "type" : "Feature",
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [
+            106.87633030000001,
+            -6.2429275129999997
+          ]
+        },
+        "properties" : {
+          "id" : 41,
+          "NamaBUMN" : "PT. Yodya Karya",
+          "Jenis" : "Persero",
+          "KlasterIndustri" : "Jasa Telekomunikasi dan Media",
+          "Rating" : 4.7000000000000002,
+          "Y" : -6.2429275129999997,
+          "X" : 106.87633030000001,
+          "Website" : "http://www.yodyakarya.com/",
+          "LinkFoto" : "https://drive.google.com/file/d/1w1F3lG-ku7G0es63O3vXsHwlQeFeWiAO/view?usp=share_link "
+        }
+      },
+      {
+        "type" : "Feature",
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [
+            106.8407167,
+            -6.1932158939999997
+          ]
+        },
+        "properties" : {
+          "id" : 42,
+          "NamaBUMN" : "PT. Djakarta Lloyd",
+          "Jenis" : "Persero",
+          "KlasterIndustri" : "Jasa Telekomunikasi dan Media",
+          "Rating" : 5,
+          "Y" : -6.1932158939999997,
+          "X" : 106.8407167,
+          "Website" : "http://djakartalloyd.co.id/",
+          "LinkFoto" : "https://drive.google.com/file/d/1liyXqh4MF5FW3kF7lFN3_i_kO3o6Nmaj/view?usp=share_link "
+        }
+      },
+      {
+        "type" : "Feature",
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [
+            106.81694830000001,
+            -6.133912241
+          ]
+        },
+        "properties" : {
+          "id" : 43,
+          "NamaBUMN" : "PT. Perusahaan Perdagangan Indonesia",
+          "Jenis" : "Persero",
+          "KlasterIndustri" : "Industri Pangan dan Pupuk",
+          "Rating" : 5,
+          "Y" : -6.133912241,
+          "X" : 106.81694830000001,
+          "Website" : "http://www.ptppi.co.id/id/",
+          "LinkFoto" : "https://drive.google.com/file/d/1-s95_k-ihBjKJvmorldQYa087_hsSEgF/view?usp=share_link "
+        }
+      },
+      {
+        "type" : "Feature",
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [
+            106.8344163,
+            -6.2288801170000001
+          ]
+        },
+        "properties" : {
+          "id" : 44,
+          "NamaBUMN" : "PT. Perkebunan Nusantara III",
+          "Jenis" : "Persero",
+          "KlasterIndustri" : "Industri Perkebunan dan Kehutanan",
+          "Rating" : 4.0999999999999996,
+          "Y" : -6.2288801170000001,
+          "X" : 106.8344163,
+          "Website" : "http://www.ptpn3.co.id/",
+          "LinkFoto" : "https://drive.google.com/file/d/1RsRMlA1stfpuc0oNZWcypKwIQ6frJX6C/view?usp=share_link "
+        }
+      },
+      {
+        "type" : "Feature",
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [
+            106.0377527,
+            -6.0094886450000002
+          ]
+        },
+        "properties" : {
+          "id" : 45,
+          "NamaBUMN" : "PT. Krakatau Steel",
+          "Jenis" : "Persero",
+          "KlasterIndustri" : "Industri Manufaktur",
+          "Rating" : 4.4000000000000004,
+          "Y" : -6.0094886450000002,
+          "X" : 106.0377527,
+          "Website" : "http://www.krakatausteel.com/",
+          "LinkFoto" : "https://drive.google.com/file/d/1P0S954zTc8qmJ8NAh8pPX_g_Kc2RyMO_/view?usp=share_link "
+        }
+      },
+      {
+        "type" : "Feature",
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [
+            106.8429702,
+            -6.2572167150000002
+          ]
+        },
+        "properties" : {
+          "id" : 46,
+          "NamaBUMN" : "PT. Pertani",
+          "Jenis" : "Persero",
+          "KlasterIndustri" : "Industri Pangan dan Pupuk",
+          "Rating" : 4.7999999999999998,
+          "Y" : -6.2572167150000002,
+          "X" : 106.8429702,
+          "Website" : "http://www.pertani.co.id/",
+          "LinkFoto" : "https://drive.google.com/file/d/1dbUgsZL1e9Xf_wy6IsuMBsa2JiO9I4XY/view?usp=share_link "
+        }
+      },
+      {
+        "type" : "Feature",
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [
+            106.8169582,
+            -6.1758089519999997
+          ]
+        },
+        "properties" : {
+          "id" : 47,
+          "NamaBUMN" : "PT. PAL Indonesia",
+          "Jenis" : "Persero",
+          "KlasterIndustri" : "Industri Manufaktur",
+          "Rating" : 4.5999999999999996,
+          "Y" : -6.1758089519999997,
+          "X" : 106.8169582,
+          "Website" : "http://www.pal.co.id/",
+          "LinkFoto" : "https://drive.google.com/file/d/1mMcgx4YcuRMris0o50iJ5T3Y41tIF5G2/view?usp=share_link "
+        }
+      },
+      {
+        "type" : "Feature",
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [
+            107.6461001,
+            -6.9334268650000004
+          ]
+        },
+        "properties" : {
+          "id" : 48,
+          "NamaBUMN" : "PT. Pindad",
+          "Jenis" : "Persero",
+          "KlasterIndustri" : "Industri Manufaktur",
+          "Rating" : 4.9000000000000004,
+          "Y" : -6.9334268650000004,
+          "X" : 107.6461001,
+          "Website" : "https://www.pindad.com/",
+          "LinkFoto" : "https://drive.google.com/file/d/18wl4QuuAYdHwTnkZetngRNzNvhekhTpy/view?usp=share_link "
+        }
+      },
+      {
+        "type" : "Feature",
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [
+            106.86906930000001,
+            -6.236130299
+          ]
+        },
+        "properties" : {
+          "id" : 49,
+          "NamaBUMN" : "Perum Produksi Film Negara",
+          "Jenis" : "Perum",
+          "KlasterIndustri" : "Jasa Telekomunikasi dan Media",
+          "Rating" : 4.0999999999999996,
+          "Y" : -6.236130299,
+          "X" : 106.86906930000001,
+          "Website" : "http://www.pfn.co.id/",
+          "LinkFoto" : "https://drive.google.com/file/d/1Kr6tSML4MM0iQ8ZTSlWF7Yb-gS5FV4yU/view?usp=share_link "
+        }
+      },
+      {
+        "type" : "Feature",
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [
+            106.8429694,
+            -6.3021407170000003
+          ]
+        },
+        "properties" : {
+          "id" : 50,
+          "NamaBUMN" : "PT. Aneka Tambang",
+          "Jenis" : "Persero",
+          "KlasterIndustri" : "Industri Mineral dan Batubara",
+          "Rating" : 4.5,
+          "Y" : -6.3021407170000003,
+          "X" : 106.8429694,
+          "Website" : "http://www.antam.com/",
+          "LinkFoto" : "https://drive.google.com/file/d/1gDDyeJFv1Y4O87rlkUIrHwvYlMclgkFN/view?usp=share_link "
+        }
+      }
+    ]
+  }
